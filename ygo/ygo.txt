@@ -1,0 +1,1066 @@
+[CustomCards]
+	[	{
+			"name": "CW03 TS Fodder",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCW03 TS Fodder.png"
+			}
+		},
+		{
+			"name": "CW06 Sky Scout",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Bird Scout ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCW06 Sky Scout.png"
+			}
+		},
+		{
+			"name": "CW11 HL Celtic Guardian",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Elf  Soldier ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCW11 HL Celtic Guardian.png"
+			}
+		},
+		{
+			"name": "CW09 Breaker, the Magical Warrior",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Elf Wizard Warrior ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCW09 Breaker, the Magical Warrior.png"
+			}
+		},
+		{
+			"name": "CW05 Warded scry",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCW05 Warded scry.png"
+			}
+		},
+		{
+			"name": "CW08 FT pump",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCW08 FT pump.png"
+			}
+		},
+		{
+			"name": "CW04 Enchant Destroy",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCW04 Enchant Destroy.png"
+			}
+		},
+		{
+			"name": "CW10 TS Flyer",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCW10 TS Flyer.png"
+			}
+		},
+		{
+			"name": "CW07 FT Token Maker",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCW07 FT Token Maker.png"
+			}
+		},
+		{
+			"name": "CW14 Combat Trick",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCW14 Combat Trick.png"
+			}
+		},
+		{
+			"name": "CW13 FT Banishment",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCW13 FT Banishment.png"
+			}
+		},
+		{
+			"name": "CW12 Combat Removal",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCW12 Combat Removal.png"
+			}
+		},
+		{
+			"name": "CW15 United We Stand",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCW15 United We Stand.png"
+			}
+		},
+		{
+			"name": "CU01 Flying cycler",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCU01 Flying cycler.png"
+			}
+		},
+		{
+			"name": "CU03 Warded Scryer",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCU03 Warded Scryer.png"
+			}
+		},
+		{
+			"name": "CU02 FT Prowess tapped",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCU02 FT Prowess tapped.png"
+			}
+		},
+		{
+			"name": "CU04 FT VVanilla",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCU04 FT VVanilla.png"
+			}
+		},
+		{
+			"name": "CU08 HL Kairyu-shin",
+			"rarity": "common",
+			"mana_cost": "{6}{U}",
+			"type": "Creature — Serpent ",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCU08 HL Kairyu-shin.png"
+			}
+		},
+		{
+			"name": "CU09 FT Pot of greed",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCU09 FT Pot of greed.png"
+			}
+		},
+		{
+			"name": "CU10 Witness Protection",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCU10 Witness Protection.png"
+			}
+		},
+		{
+			"name": "CU11 Stun Cantrip",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCU11 Stun Cantrip.png"
+			}
+		},
+		{
+			"name": "CU12 FT Protective Instant",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCU12 FT Protective Instant.png"
+			}
+		},
+		{
+			"name": "CU13 Counterspell",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCU13 Counterspell.png"
+			}
+		},
+		{
+			"name": "CU14 Modal",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCU14 Modal.png"
+			}
+		},
+		{
+			"name": "CU15 Bigger Counterspell",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCU15 Bigger Counterspell.png"
+			}
+		},
+		{
+			"name": "CB01 Kuriboh",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCB01 Kuriboh.png"
+			}
+		},
+		{
+			"name": "CB02 Lifelink Shade",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCB02 Lifelink Shade.png"
+			}
+		},
+		{
+			"name": "CB03 Deathtouch",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCB03 Deathtouch.png"
+			}
+		},
+		{
+			"name": "CB04 VVanilla discard",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCB04 VVanilla discard.png"
+			}
+		},
+		{
+			"name": "CB05 TR temp menace",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCB05 TR temp menace.png"
+			}
+		},
+		{
+			"name": "CB06 FT Fly",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCB06 FT Fly.png"
+			}
+		},
+		{
+			"name": "CB07 TS VVanilla",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCB07 TS VVanilla.png"
+			}
+		},
+		{
+			"name": "CB08 Sac Benefit",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCB08 Sac Benefit.png"
+			}
+		},
+		{
+			"name": "CB09 TS FVanilla Fly Tramp",
+			"rarity": "common",
+			"mana_cost": "{6}{B}",
+			"type": "Creature",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCB09 TS FVanilla Fly Tramp.png"
+			}
+		},
+		{
+			"name": "CB10 FT Push",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCB10 FT Push.png"
+			}
+		},
+		{
+			"name": "CB11 Combat Trick",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCB11 Combat Trick.png"
+			}
+		},
+		{
+			"name": "CB12 TR Draw",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCB12 TR Draw.png"
+			}
+		},
+		{
+			"name": "CB13 FT Hand mill",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCB13 FT Hand mill.png"
+			}
+		},
+		{
+			"name": "CB14 Murder",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCB14 Murder.png"
+			}
+		},
+		{
+			"name": "CB15 TR Destroy drain",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCB15 TR Destroy drain.png"
+			}
+		},
+		{
+			"name": "CR01 HL Value one-drop",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCR01 HL Value one-drop.png"
+			}
+		},
+		{
+			"name": "CR02 Discard supp",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCR02 Discard supp.png"
+			}
+		},
+		{
+			"name": "CR03 Attacker",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCR03 Attacker.png"
+			}
+		},
+		{
+			"name": "CR04 TR VVanilla",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCR04 TR VVanilla.png"
+			}
+		},
+		{
+			"name": "CR05 No AttackOrBlock alone",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCR05 No AttackOrBlock alone.png"
+			}
+		},
+		{
+			"name": "CR06 TS Self Burn",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCR06 TS Self Burn.png"
+			}
+		},
+		{
+			"name": "CR07 Treasure on any atk",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCR07 Treasure on any atk.png"
+			}
+		},
+		{
+			"name": "CR08",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCR08.png"
+			}
+		},
+		{
+			"name": "CR09 Menace Bless",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCR09 Menace Bless.png"
+			}
+		},
+		{
+			"name": "CR10 TR Sparksy",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCR10 TR Sparksy.png"
+			}
+		},
+		{
+			"name": "CR11 Combat Trick",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCR11 Combat Trick.png"
+			}
+		},
+		{
+			"name": "CR12 Discard Draw",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCR12 Discard Draw.png"
+			}
+		},
+		{
+			"name": "CR13 FT Modal ArtDesOrDraw",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCR13 FT Modal ArtDesOrDraw.png"
+			}
+		},
+		{
+			"name": "CR15 TR Damage",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCR15 TR Damage.png"
+			}
+		},
+		{
+			"name": "CR14 Anger discard supp",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCR14 Anger discard supp.png"
+			}
+		},
+		{
+			"name": "CG01 Deathtouch",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCG01 Deathtouch.png"
+			}
+		},
+		{
+			"name": "CG02 Mana Dork",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCG02 Mana Dork.png"
+			}
+		},
+		{
+			"name": "CG03 HL value",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCG03 HL value.png"
+			}
+		},
+		{
+			"name": "CG04",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCG04.png"
+			}
+		},
+		{
+			"name": "CG05",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCG05.png"
+			}
+		},
+		{
+			"name": "CG06 HL Enter fight",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCG06 HL Enter fight.png"
+			}
+		},
+		{
+			"name": "CG07",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCG07.png"
+			}
+		},
+		{
+			"name": "CG08 TS VVanilla",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCG08 TS VVanilla.png"
+			}
+		},
+		{
+			"name": "CG09",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCG09.png"
+			}
+		},
+		{
+			"name": "CG10 TS FT Vanilla",
+			"rarity": "common",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Creature",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCG10 TS FT Vanilla.png"
+			}
+		},
+		{
+			"name": "CG11 HL Fight",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCG11 HL Fight.png"
+			}
+		},
+		{
+			"name": "CG12 FT Bite",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCG12 FT Bite.png"
+			}
+		},
+		{
+			"name": "CG13",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCG13.png"
+			}
+		},
+		{
+			"name": "CG15 Land dig",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCG15 Land dig.png"
+			}
+		},
+		{
+			"name": "CG14",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCG14.png"
+			}
+		},
+		{
+			"name": "CU05 InstOrSorc cost down",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCU05 InstOrSorc cost down.png"
+			}
+		},
+		{
+			"name": "CA01",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCA01.png"
+			}
+		},
+		{
+			"name": "CA02",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCA02.png"
+			}
+		},
+		{
+			"name": "CA03",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCA03.png"
+			}
+		},
+		{
+			"name": "CA05 FT Mana Rock",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCA05 FT Mana Rock.png"
+			}
+		},
+		{
+			"name": "CL01 Toon Field",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Field ",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCL01 Toon Field.png"
+			}
+		},
+		{
+			"name": "CL02",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Field ",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCL02.png"
+			}
+		},
+		{
+			"name": "CL03 Volcanic Field",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Field ",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCL03 Volcanic Field.png"
+			}
+		},
+		{
+			"name": "CL06 Temple Field",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Field ",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCL06 Temple Field.png"
+			}
+		},
+		{
+			"name": "CL04 Jurassic Field",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Field ",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCL04 Jurassic Field.png"
+			}
+		},
+		{
+			"name": "CL07 Virtual Field",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Field ",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCL07 Virtual Field.png"
+			}
+		},
+		{
+			"name": "CL05",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Field ",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCL05.png"
+			}
+		},
+		{
+			"name": "CL08",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Field ",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCL08.png"
+			}
+		},
+		{
+			"name": "CL09 Ravine Field",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Field ",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCL09 Ravine Field.png"
+			}
+		},
+		{
+			"name": "CL10 Wetland Field",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Field ",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCL10 Wetland Field.png"
+			}
+		},
+		{
+			"name": "CA06 Millennium Key",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCA06 Millennium Key.png"
+			}
+		},
+		{
+			"name": "CW01 Lifelink",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCW01 Lifelink.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains ",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoPlains.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island ",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoIsland.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp ",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoSwamp.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain ",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoMountain.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest ",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoForest.png"
+			}
+		},
+		{
+			"name": "CU06 Flash Flying",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCU06 Flash Flying.png"
+			}
+		},
+		{
+			"name": "CA04 Millennium Scale",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCA04 Millennium Scale.png"
+			}
+		},
+		{
+			"name": "CW02 Marauding Captain",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Soldier ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCW02 Marauding Captain.png"
+			}
+		},
+		{
+			"name": "CU07 TS Flyer",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoCU07 TS Flyer.png"
+			}
+		},
+		{
+			"name": "Goat",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Goat ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Salamandric/salamandric.github.io/main/ygoGoat.png"
+			}
+		},
+		]
+	[CommonSlot(15)]
+	30 CW03 TS Fodder
+		30 CW06 Sky Scout
+		30 CW11 HL Celtic Guardian
+		30 CW09 Breaker, the Magical Warrior
+		30 CW05 Warded scry
+		30 CW08 FT pump
+		30 CW04 Enchant Destroy
+		30 CW10 TS Flyer
+		30 CW07 FT Token Maker
+		30 CW14 Combat Trick
+		30 CW13 FT Banishment
+		30 CW12 Combat Removal
+		30 CW15 United We Stand
+		30 CU01 Flying cycler
+		30 CU03 Warded Scryer
+		30 CU02 FT Prowess tapped
+		30 CU04 FT VVanilla
+		30 CU08 HL Kairyu-shin
+		30 CU09 FT Pot of greed
+		30 CU10 Witness Protection
+		30 CU11 Stun Cantrip
+		30 CU12 FT Protective Instant
+		30 CU13 Counterspell
+		30 CU14 Modal
+		30 CU15 Bigger Counterspell
+		30 CB01 Kuriboh
+		30 CB02 Lifelink Shade
+		30 CB03 Deathtouch
+		30 CB04 VVanilla discard
+		30 CB05 TR temp menace
+		30 CB06 FT Fly
+		30 CB07 TS VVanilla
+		30 CB08 Sac Benefit
+		30 CB09 TS FVanilla Fly Tramp
+		30 CB10 FT Push
+		30 CB11 Combat Trick
+		30 CB12 TR Draw
+		30 CB13 FT Hand mill
+		30 CB14 Murder
+		30 CB15 TR Destroy drain
+		30 CR01 HL Value one-drop
+		30 CR02 Discard supp
+		30 CR03 Attacker
+		30 CR04 TR VVanilla
+		30 CR05 No AttackOrBlock alone
+		30 CR06 TS Self Burn
+		30 CR07 Treasure on any atk
+		30 CR08
+		30 CR09 Menace Bless
+		30 CR10 TR Sparksy
+		30 CR11 Combat Trick
+		30 CR12 Discard Draw
+		30 CR13 FT Modal ArtDesOrDraw
+		30 CR15 TR Damage
+		30 CR14 Anger discard supp
+		30 CG01 Deathtouch
+		30 CG02 Mana Dork
+		30 CG03 HL value
+		30 CG04
+		30 CG05
+		30 CG06 HL Enter fight
+		30 CG07
+		30 CG08 TS VVanilla
+		30 CG09
+		30 CG10 TS FT Vanilla
+		30 CG11 HL Fight
+		30 CG12 FT Bite
+		30 CG13
+		30 CG15 Land dig
+		30 CG14
+		30 CU05 InstOrSorc cost down
+		30 CA01
+		30 CA02
+		30 CA03
+		30 CA05 FT Mana Rock
+		30 CL01 Toon Field
+		30 CL02
+		30 CL03 Volcanic Field
+		30 CL06 Temple Field
+		30 CL04 Jurassic Field
+		30 CL07 Virtual Field
+		30 CL05
+		30 CL08
+		30 CL09 Ravine Field
+		30 CL10 Wetland Field
+		30 CA06 Millennium Key
+		30 CW01 Lifelink
+		30 CU06 Flash Flying
+		30 CA04 Millennium Scale
+		30 CW02 Marauding Captain
+		30 CU07 TS Flyer
+		[LandSlot(1)]
+	
