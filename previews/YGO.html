@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/YGO-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>YGO visual preview</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			display: none;
+			transform: rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 20px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.icon-bar {
+			display: grid;
+			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
+			gap: 1px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-top: 2%;
+			padding-bottom: 1%;
+			justify-items: center;
+			align-items: center;
+		}
+		.icon-bar .icon img {
+			width: 90%;
+			max-width: 80px;
+			height: auto;
+			display: block;
+			padding: 5%;
+			margin: auto;
+			text-align: center;
+		}
+		.icon-bar .dot img {
+			width: 50%;
+			max-width: 65px;
+			height: auto;
+			display: block;
+			margin: auto;
+			text-align: center;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/YGO-files/logo.png" />
+	<img class="preload-hidden" src="/sets/YGO-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="icon-bar">
+			<div class="icon"><a href="YGO"><img src="/sets/YGO-files/icon.png"></img></a></div>
+
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/YGO-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+				<div class="container"><img alt="/sets\YGO-files\img\18_CW01 Lifelink.jpg" id="18_CW01 Lifelink" data-flag="@X" onclick="openSidebar('18_CW01 Lifelink',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\56_CU01 Flying cycler.jpg" id="56_CU01 Flying cycler" data-flag="@X" onclick="openSidebar('56_CU01 Flying cycler',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\94_CB01 Kuriboh.jpg" id="94_CB01 Kuriboh" data-flag="@X" onclick="openSidebar('94_CB01 Kuriboh',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\133_CR01 HL Value one-drop.jpg" id="133_CR01 HL Value one-drop" data-flag="@X" onclick="openSidebar('133_CR01 HL Value one-drop',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\171_CG01 Deathtouch.jpg" id="171_CG01 Deathtouch" data-flag="@X" onclick="openSidebar('171_CG01 Deathtouch',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\19_CW02 Marauding Captain.jpg" id="19_CW02 Marauding Captain" data-flag="@X" onclick="openSidebar('19_CW02 Marauding Captain',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\57_CU02 FT Prowess tapped.jpg" id="57_CU02 FT Prowess tapped" data-flag="@X" onclick="openSidebar('57_CU02 FT Prowess tapped',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\95_CB02 Lifelink Shade.jpg" id="95_CB02 Lifelink Shade" data-flag="@X" onclick="openSidebar('95_CB02 Lifelink Shade',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\134_CR02 Discard supp.jpg" id="134_CR02 Discard supp" data-flag="@X" onclick="openSidebar('134_CR02 Discard supp',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\172_CG02 Mana Dork.jpg" id="172_CG02 Mana Dork" data-flag="@X" onclick="openSidebar('172_CG02 Mana Dork',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\20_CW03 TS Fodder.jpg" id="20_CW03 TS Fodder" data-flag="@X" onclick="openSidebar('20_CW03 TS Fodder',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\58_CU03 Warded Scryer.jpg" id="58_CU03 Warded Scryer" data-flag="@X" onclick="openSidebar('58_CU03 Warded Scryer',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\96_CB03 Deathtouch.jpg" id="96_CB03 Deathtouch" data-flag="@X" onclick="openSidebar('96_CB03 Deathtouch',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\135_CR03 Attacker.jpg" id="135_CR03 Attacker" data-flag="@X" onclick="openSidebar('135_CR03 Attacker',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\173_CG03 HL value.jpg" id="173_CG03 HL value" data-flag="@X" onclick="openSidebar('173_CG03 HL value',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\21_CW04 Enchant Destroy.jpg" id="21_CW04 Enchant Destroy" data-flag="@X" onclick="openSidebar('21_CW04 Enchant Destroy',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\59_CU04 FT VVanilla.jpg" id="59_CU04 FT VVanilla" data-flag="@X" onclick="openSidebar('59_CU04 FT VVanilla',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\97_CB04 VVanilla discard.jpg" id="97_CB04 VVanilla discard" data-flag="@X" onclick="openSidebar('97_CB04 VVanilla discard',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\136_CR04 TR VVanilla.jpg" id="136_CR04 TR VVanilla" data-flag="@X" onclick="openSidebar('136_CR04 TR VVanilla',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\174_CG04.jpg" id="174_CG04" data-flag="@X" onclick="openSidebar('174_CG04',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\22_CW05 Warded scry.jpg" id="22_CW05 Warded scry" data-flag="@X" onclick="openSidebar('22_CW05 Warded scry',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\60_CU05 InstOrSorc cost down.jpg" id="60_CU05 InstOrSorc cost down" data-flag="@X" onclick="openSidebar('60_CU05 InstOrSorc cost down',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\98_CB05 TR temp menace.jpg" id="98_CB05 TR temp menace" data-flag="@X" onclick="openSidebar('98_CB05 TR temp menace',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\137_CR05 No AttackOrBlock alone.jpg" id="137_CR05 No AttackOrBlock alone" data-flag="@X" onclick="openSidebar('137_CR05 No AttackOrBlock alone',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\175_CG05.jpg" id="175_CG05" data-flag="@X" onclick="openSidebar('175_CG05',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\23_CW06 Sky Scout.jpg" id="23_CW06 Sky Scout" data-flag="@X" onclick="openSidebar('23_CW06 Sky Scout',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\61_CU06 Flash Flying.jpg" id="61_CU06 Flash Flying" data-flag="@X" onclick="openSidebar('61_CU06 Flash Flying',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\99_CB06 FT Fly.jpg" id="99_CB06 FT Fly" data-flag="@X" onclick="openSidebar('99_CB06 FT Fly',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\138_CR06 TS Self Burn.jpg" id="138_CR06 TS Self Burn" data-flag="@X" onclick="openSidebar('138_CR06 TS Self Burn',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\176_CG06 HL Enter fight.jpg" id="176_CG06 HL Enter fight" data-flag="@X" onclick="openSidebar('176_CG06 HL Enter fight',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\24_CW07 FT Token Maker.jpg" id="24_CW07 FT Token Maker" data-flag="@X" onclick="openSidebar('24_CW07 FT Token Maker',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\62_CU07 TS Flyer.jpg" id="62_CU07 TS Flyer" data-flag="@X" onclick="openSidebar('62_CU07 TS Flyer',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\100_CB07 TS VVanilla.jpg" id="100_CB07 TS VVanilla" data-flag="@X" onclick="openSidebar('100_CB07 TS VVanilla',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\139_CR07 Treasure on any atk.jpg" id="139_CR07 Treasure on any atk" data-flag="@X" onclick="openSidebar('139_CR07 Treasure on any atk',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\177_CG07.jpg" id="177_CG07" data-flag="@X" onclick="openSidebar('177_CG07',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\25_CW08 FT pump.jpg" id="25_CW08 FT pump" data-flag="@X" onclick="openSidebar('25_CW08 FT pump',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\63_CU08 HL Kairyu-shin.jpg" id="63_CU08 HL Kairyu-shin" data-flag="@X" onclick="openSidebar('63_CU08 HL Kairyu-shin',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\101_CB08 Sac Benefit.jpg" id="101_CB08 Sac Benefit" data-flag="@X" onclick="openSidebar('101_CB08 Sac Benefit',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\140_CR08.jpg" id="140_CR08" data-flag="@X" onclick="openSidebar('140_CR08',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\178_CG08 TS VVanilla.jpg" id="178_CG08 TS VVanilla" data-flag="@X" onclick="openSidebar('178_CG08 TS VVanilla',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\26_CW09 Breaker, the Magical Warrior.jpg" id="26_CW09 Breaker, the Magical Warrior" data-flag="@X" onclick="openSidebar('26_CW09 Breaker, the Magical Warrior',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\64_CU09 FT Pot of greed.jpg" id="64_CU09 FT Pot of greed" data-flag="@X" onclick="openSidebar('64_CU09 FT Pot of greed',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\102_CB09 TS FVanilla Fly Tramp.jpg" id="102_CB09 TS FVanilla Fly Tramp" data-flag="@X" onclick="openSidebar('102_CB09 TS FVanilla Fly Tramp',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\141_CR09 Menace Bless.jpg" id="141_CR09 Menace Bless" data-flag="@X" onclick="openSidebar('141_CR09 Menace Bless',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\179_CG09.jpg" id="179_CG09" data-flag="@X" onclick="openSidebar('179_CG09',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\27_CW10 TS Flyer.jpg" id="27_CW10 TS Flyer" data-flag="@X" onclick="openSidebar('27_CW10 TS Flyer',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\65_CU10 Witness Protection.jpg" id="65_CU10 Witness Protection" data-flag="@X" onclick="openSidebar('65_CU10 Witness Protection',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\103_CB10 FT Push.jpg" id="103_CB10 FT Push" data-flag="@X" onclick="openSidebar('103_CB10 FT Push',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\142_CR10 TR Sparksy.jpg" id="142_CR10 TR Sparksy" data-flag="@X" onclick="openSidebar('142_CR10 TR Sparksy',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\180_CG10 TS FT Vanilla.jpg" id="180_CG10 TS FT Vanilla" data-flag="@X" onclick="openSidebar('180_CG10 TS FT Vanilla',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\28_CW11 HL Celtic Guardian.jpg" id="28_CW11 HL Celtic Guardian" data-flag="@X" onclick="openSidebar('28_CW11 HL Celtic Guardian',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\66_CU11 Stun Cantrip.jpg" id="66_CU11 Stun Cantrip" data-flag="@X" onclick="openSidebar('66_CU11 Stun Cantrip',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\104_CB11 Combat Trick.jpg" id="104_CB11 Combat Trick" data-flag="@X" onclick="openSidebar('104_CB11 Combat Trick',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\143_CR11 Combat Trick.jpg" id="143_CR11 Combat Trick" data-flag="@X" onclick="openSidebar('143_CR11 Combat Trick',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\181_CG11 HL Fight.jpg" id="181_CG11 HL Fight" data-flag="@X" onclick="openSidebar('181_CG11 HL Fight',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\29_CW12 Combat Removal.jpg" id="29_CW12 Combat Removal" data-flag="@X" onclick="openSidebar('29_CW12 Combat Removal',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\67_CU12 FT Protective Instant.jpg" id="67_CU12 FT Protective Instant" data-flag="@X" onclick="openSidebar('67_CU12 FT Protective Instant',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\105_CB12 TR Draw.jpg" id="105_CB12 TR Draw" data-flag="@X" onclick="openSidebar('105_CB12 TR Draw',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\144_CR12 Discard Draw.jpg" id="144_CR12 Discard Draw" data-flag="@X" onclick="openSidebar('144_CR12 Discard Draw',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\182_CG12 FT Bite.jpg" id="182_CG12 FT Bite" data-flag="@X" onclick="openSidebar('182_CG12 FT Bite',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\30_CW13 FT Banishment.jpg" id="30_CW13 FT Banishment" data-flag="@X" onclick="openSidebar('30_CW13 FT Banishment',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\68_CU13 Counterspell.jpg" id="68_CU13 Counterspell" data-flag="@X" onclick="openSidebar('68_CU13 Counterspell',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\106_CB13 FT Hand mill.jpg" id="106_CB13 FT Hand mill" data-flag="@X" onclick="openSidebar('106_CB13 FT Hand mill',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\145_CR13 FT Modal ArtDesOrDraw.jpg" id="145_CR13 FT Modal ArtDesOrDraw" data-flag="@X" onclick="openSidebar('145_CR13 FT Modal ArtDesOrDraw',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\183_CG13.jpg" id="183_CG13" data-flag="@X" onclick="openSidebar('183_CG13',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\31_CW14 Combat Trick.jpg" id="31_CW14 Combat Trick" data-flag="@X" onclick="openSidebar('31_CW14 Combat Trick',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\69_CU14 Modal.jpg" id="69_CU14 Modal" data-flag="@X" onclick="openSidebar('69_CU14 Modal',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\107_CB14 Murder.jpg" id="107_CB14 Murder" data-flag="@X" onclick="openSidebar('107_CB14 Murder',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\146_CR14 Anger discard supp.jpg" id="146_CR14 Anger discard supp" data-flag="@X" onclick="openSidebar('146_CR14 Anger discard supp',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\184_CG14.jpg" id="184_CG14" data-flag="@X" onclick="openSidebar('184_CG14',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\32_CW15 United We Stand.jpg" id="32_CW15 United We Stand" data-flag="@X" onclick="openSidebar('32_CW15 United We Stand',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\70_CU15 Bigger Counterspell.jpg" id="70_CU15 Bigger Counterspell" data-flag="@X" onclick="openSidebar('70_CU15 Bigger Counterspell',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\108_CB15 TR Destroy drain.jpg" id="108_CB15 TR Destroy drain" data-flag="@X" onclick="openSidebar('108_CB15 TR Destroy drain',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\147_CR15 TR Damage.jpg" id="147_CR15 TR Damage" data-flag="@X" onclick="openSidebar('147_CR15 TR Damage',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\185_CG15 Land dig.jpg" id="185_CG15 Land dig" data-flag="@X" onclick="openSidebar('185_CG15 Land dig',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="colorless" class="anchor"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\243_CA01.jpg" id="243_CA01" data-flag="@X" onclick="openSidebar('243_CA01',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\244_CA02.jpg" id="244_CA02" data-flag="@X" onclick="openSidebar('244_CA02',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\245_CA03.jpg" id="245_CA03" data-flag="@X" onclick="openSidebar('245_CA03',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\246_CA04 Millennium Scale.jpg" id="246_CA04 Millennium Scale" data-flag="@X" onclick="openSidebar('246_CA04 Millennium Scale',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\247_CA05 FT Mana Rock.jpg" id="247_CA05 FT Mana Rock" data-flag="@X" onclick="openSidebar('247_CA05 FT Mana Rock',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\248_CA06 Millennium Key.jpg" id="248_CA06 Millennium Key" data-flag="@X" onclick="openSidebar('248_CA06 Millennium Key',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\257_CL01 Toon Field.jpg" id="257_CL01 Toon Field" data-flag="@X" onclick="openSidebar('257_CL01 Toon Field',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\258_CL02.jpg" id="258_CL02" data-flag="@X" onclick="openSidebar('258_CL02',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\259_CL03 Volcanic Field.jpg" id="259_CL03 Volcanic Field" data-flag="@X" onclick="openSidebar('259_CL03 Volcanic Field',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\260_CL04 Jurassic Field.jpg" id="260_CL04 Jurassic Field" data-flag="@X" onclick="openSidebar('260_CL04 Jurassic Field',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\261_CL05.jpg" id="261_CL05" data-flag="@X" onclick="openSidebar('261_CL05',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\262_CL06 Temple Field.jpg" id="262_CL06 Temple Field" data-flag="@X" onclick="openSidebar('262_CL06 Temple Field',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\263_CL07 Virtual Field.jpg" id="263_CL07 Virtual Field" data-flag="@X" onclick="openSidebar('263_CL07 Virtual Field',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\264_CL08.jpg" id="264_CL08" data-flag="@X" onclick="openSidebar('264_CL08',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\265_CL09 Ravine Field.jpg" id="265_CL09 Ravine Field" data-flag="@X" onclick="openSidebar('265_CL09 Ravine Field',false)"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\266_CL10 Wetland Field.jpg" id="266_CL10 Wetland Field" data-flag="@X" onclick="openSidebar('266_CL10 Wetland Field',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="token" class="anchor"></div>
+			<div class="container"><img alt="/sets\YGO-files\img\1t_Goat.jpg" id="1t_Goat" data-flag="@X" onclick="openSidebar('1t_Goat',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+	</div>
+</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+		
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		tmp = document.getElementById(num).src;
+		console.log(num);
+		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+		document.getElementById(num).dataset.alt_src = tmp;
+
+		if (num == 'sidebar_img')
+		{
+			const rotated_img = document.getElementById('sidebar_h_img');
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal && rotated_img.style.display == 'none')
+			{
+				rotated_img.style.display = "block";
+				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+			}
+			else
+			{
+				rotated_img.style.display = "none";
+				sidebar_img.style.filter = "";
+			}
+		}
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+		
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+		
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+		
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url;
+			}
+	</script>
+</body>
+</html>
