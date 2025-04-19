@@ -963,7 +963,9 @@
 	]
 
 [rare(1)]
+	100 Goat
 [uncommon(4)]
+	100 Goat
 [common(7)]
 	8 CW03 TS Fodder
 	8 CW06 Sky Scout
