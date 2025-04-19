@@ -983,9 +983,169 @@
 	]
 
 [rare(1)]
-	2 RX01
-[uncommon(4)]
-	4 UA01
+	6 CW03 TS Fodder
+	6 CW06 Sky Scout
+	6 CW11 HL Celtic Guardian
+	6 CW09 Breaker, the Magical Warrior
+	6 CW05 Warded scry
+	6 CW08 FT pump
+	6 CW04 Enchant Destroy
+	6 CW10 TS Flyer
+	6 CW07 FT Token Maker
+	6 CW14 Combat Trick
+	6 CW13 FT Banishment
+	6 CW12 Combat Removal
+	6 CW15 United We Stand
+	6 CU01 Flying cycler
+	6 CU03 Warded Scryer
+	6 CU02 FT Prowess tapped
+	6 CU04 FT VVanilla
+	6 CU08 HL Kairyu-shin
+	6 CU09 FT CounterOrBounce
+	6 CU10 Witness Protection
+	6 CU11 Stun Cantrip
+	6 CU12 Pot of Greed
+	6 CU13 Counterspell
+	6 CU14 Draw to flying
+	6 CU15 FT Bigger Counterspell
+	6 CB01 Kuriboh
+	6 CB02 Lifelink Shade
+	6 CB03 Token on death
+	6 CB04 VVanilla discard
+	6 CB05 TR temp menace
+	6 CB06 FT Fly
+	6 CB07 TS VVanilla
+	6 CB08 Sac Benefit
+	6 CB09 TS FVanilla Fly Tramp
+	6 CB10 FT Push
+	6 CB11 Combat Trick
+	6 CB12 TR Draw
+	6 CB13 FT Hand mill
+	6 CB14 Murder
+	6 CB15 TR Destroy drain
+	6 CR01 HL Value one-drop
+	6 CR02 Discard supp
+	6 CR03 Attacker
+	6 CR04 TR VVanilla
+	6 CR05 No AttackOrBlock alone
+	6 CR06 TS Self Burn
+	6 CR07 Treasure on any atk
+	6 CR08 Haste VFVanilla
+	6 CR09 Menace Bless
+	6 CR10 TR Sparksy
+	6 CR11 Combat Trick
+	6 CR12 Discard Draw
+	6 CR13 FT Modal ArtDesOrDraw
+	6 CR15 TR Damage
+	6 CR14 Anger discard supp
+	6 CG01 Deathtouch
+	6 CG02 Mana Dork
+	6 CG03 HL value
+	6 CG04 sac to destroy
+	6 CG05 FVanilla
+	6 CG06 HL Enter fight
+	6 CG07 Mother Grizzly
+	6 CG08 TS VVanilla
+	6 CG09 FVanilla
+	6 CG10 TS FT Vanilla
+	6 CG11 HL Fight
+	6 CG12 FT Bite
+	6 CG13 Combat growth
+	6 CG15 Land dig
+	6 CG14 TR Land search
+	6 CU05 InstOrSorc cost down
+	6 CA01 Scry VVanilla
+	6 CA02 Flying replacer
+	6 CA03 Treasure VVanilla
+	6 CA05 FT Mana Rock
+	6 CA06 Millennium Key
+	6 CW01 Lifelink
+	6 CU06 Flash Flying
+	6 CA04 Millennium Scale
+	6 CW02 Marauding Captain
+	6 CU07 TS Flyer
+[uncommon(3)]
+	6 CW03 TS Fodder
+	6 CW06 Sky Scout
+	6 CW11 HL Celtic Guardian
+	6 CW09 Breaker, the Magical Warrior
+	6 CW05 Warded scry
+	6 CW08 FT pump
+	6 CW04 Enchant Destroy
+	6 CW10 TS Flyer
+	6 CW07 FT Token Maker
+	6 CW14 Combat Trick
+	6 CW13 FT Banishment
+	6 CW12 Combat Removal
+	6 CW15 United We Stand
+	6 CU01 Flying cycler
+	6 CU03 Warded Scryer
+	6 CU02 FT Prowess tapped
+	6 CU04 FT VVanilla
+	6 CU08 HL Kairyu-shin
+	6 CU09 FT CounterOrBounce
+	6 CU10 Witness Protection
+	6 CU11 Stun Cantrip
+	6 CU12 Pot of Greed
+	6 CU13 Counterspell
+	6 CU14 Draw to flying
+	6 CU15 FT Bigger Counterspell
+	6 CB01 Kuriboh
+	6 CB02 Lifelink Shade
+	6 CB03 Token on death
+	6 CB04 VVanilla discard
+	6 CB05 TR temp menace
+	6 CB06 FT Fly
+	6 CB07 TS VVanilla
+	6 CB08 Sac Benefit
+	6 CB09 TS FVanilla Fly Tramp
+	6 CB10 FT Push
+	6 CB11 Combat Trick
+	6 CB12 TR Draw
+	6 CB13 FT Hand mill
+	6 CB14 Murder
+	6 CB15 TR Destroy drain
+	6 CR01 HL Value one-drop
+	6 CR02 Discard supp
+	6 CR03 Attacker
+	6 CR04 TR VVanilla
+	6 CR05 No AttackOrBlock alone
+	6 CR06 TS Self Burn
+	6 CR07 Treasure on any atk
+	6 CR08 Haste VFVanilla
+	6 CR09 Menace Bless
+	6 CR10 TR Sparksy
+	6 CR11 Combat Trick
+	6 CR12 Discard Draw
+	6 CR13 FT Modal ArtDesOrDraw
+	6 CR15 TR Damage
+	6 CR14 Anger discard supp
+	6 CG01 Deathtouch
+	6 CG02 Mana Dork
+	6 CG03 HL value
+	6 CG04 sac to destroy
+	6 CG05 FVanilla
+	6 CG06 HL Enter fight
+	6 CG07 Mother Grizzly
+	6 CG08 TS VVanilla
+	6 CG09 FVanilla
+	6 CG10 TS FT Vanilla
+	6 CG11 HL Fight
+	6 CG12 FT Bite
+	6 CG13 Combat growth
+	6 CG15 Land dig
+	6 CG14 TR Land search
+	6 CU05 InstOrSorc cost down
+	6 CA01 Scry VVanilla
+	6 CA02 Flying replacer
+	6 CA03 Treasure VVanilla
+	6 CA05 FT Mana Rock
+	6 CA06 Millennium Key
+	6 CW01 Lifelink
+	6 CU06 Flash Flying
+	6 CA04 Millennium Scale
+	6 CW02 Marauding Captain
+	6 CU07 TS Flyer
 [common(7)]
 	8 CW03 TS Fodder
 	8 CW06 Sky Scout
@@ -1062,16 +1222,6 @@
 	8 CA02 Flying replacer
 	8 CA03 Treasure VVanilla
 	8 CA05 FT Mana Rock
-	8 CL01 Dream Field
-	8 CL02 Dark Storm Field
-	8 CL03 Volcanic Field
-	8 CL06 Temple Field
-	8 CL04 Jurassic Field
-	8 CL07 Virtual Field
-	8 CL05 Sacred Village Field
-	8 CL08 Grave Field
-	8 CL09 Ravine Field
-	8 CL10 Wetland Field
 	8 CA06 Millennium Key
 	8 CW01 Lifelink
 	8 CU06 Flash Flying
@@ -1154,21 +1304,20 @@
 	6 CA02 Flying replacer
 	6 CA03 Treasure VVanilla
 	6 CA05 FT Mana Rock
-	15 UA01
-	6 CL01 Dream Field
-	6 CL02 Dark Storm Field
-	6 CL03 Volcanic Field
-	6 CL06 Temple Field
-	6 CL04 Jurassic Field
-	6 CL07 Virtual Field
-	6 CL05 Sacred Village Field
-	6 CL08 Grave Field
-	6 CL09 Ravine Field
-	6 CL10 Wetland Field
 	6 CA06 Millennium Key
 	6 CW01 Lifelink
 	6 CU06 Flash Flying
 	6 CA04 Millennium Scale
 	6 CW02 Marauding Captain
-	7 RX01
 	6 CU07 TS Flyer
+[landslot(1)]
+	4 CL01 Dream Field
+	4 CL02 Dark Storm Field
+	4 CL03 Volcanic Field
+	4 CL04 Jurassic Field
+	4 CL05 Sacred Village Field
+	4 CL06 Temple Field
+	4 CL07 Virtual Field
+	4 CL08 Grave Field
+	4 CL09 Ravine Field
+	4 CL10 Wetland Field
