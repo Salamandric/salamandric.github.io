@@ -7,7 +7,7 @@
 			"type": "Creature — Knight",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/21_CW03 TS Fodder.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/21_CW03 TS Fodder.jpg"
 			}
 		},
 		{
@@ -17,7 +17,7 @@
 			"type": "Creature — Bird Scout",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/24_CW06 Sky Scout.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/24_CW06 Sky Scout.jpg"
 			}
 		},
 		{
@@ -27,7 +27,7 @@
 			"type": "Creature — Elf Soldier",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/29_CW11 HL Celtic Guardian.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/29_CW11 HL Celtic Guardian.jpg"
 			}
 		},
 		{
@@ -37,7 +37,7 @@
 			"type": "Creature — Elf Wizard Warrior",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/27_CW09 Breaker, the Magical Warrior.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/27_CW09 Breaker, the Magical Warrior.jpg"
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 			"type": "Creature",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/23_CW05 Warded scry.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/23_CW05 Warded scry.jpg"
 			}
 		},
 		{
@@ -57,7 +57,7 @@
 			"type": "Creature",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/26_CW08 FT pump.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/26_CW08 FT pump.jpg"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 			"type": "Creature",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/22_CW04 Enchant Destroy.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/22_CW04 Enchant Destroy.jpg"
 			}
 		},
 		{
@@ -77,7 +77,7 @@
 			"type": "Creature",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/28_CW10 TS Flyer.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/28_CW10 TS Flyer.jpg"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 			"type": "Instant",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/25_CW07 FT Token Maker.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/25_CW07 FT Token Maker.jpg"
 			}
 		},
 		{
@@ -97,7 +97,7 @@
 			"type": "Instant",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/32_CW14 Combat Trick.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/32_CW14 Combat Trick.jpg"
 			}
 		},
 		{
@@ -107,7 +107,7 @@
 			"type": "Enchantment",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/31_CW13 FT Banishment.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/31_CW13 FT Banishment.jpg"
 			}
 		},
 		{
@@ -117,7 +117,7 @@
 			"type": "Sorcery",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/30_CW12 Combat Removal.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/30_CW12 Combat Removal.jpg"
 			}
 		},
 		{
@@ -127,7 +127,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/33_CW15 United We Stand.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/33_CW15 United We Stand.jpg"
 			}
 		},
 		{
@@ -137,7 +137,7 @@
 			"type": "Creature",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/57_CU01 Flying cycler.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/57_CU01 Flying cycler.jpg"
 			}
 		},
 		{
@@ -147,7 +147,7 @@
 			"type": "Creature",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/59_CU03 Warded Scryer.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/59_CU03 Warded Scryer.jpg"
 			}
 		},
 		{
@@ -157,7 +157,7 @@
 			"type": "Creature",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/58_CU02 FT Prowess tapped.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/58_CU02 FT Prowess tapped.jpg"
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 			"type": "Creature",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/60_CU04 FT VVanilla.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/60_CU04 FT VVanilla.jpg"
 			}
 		},
 		{
@@ -177,7 +177,7 @@
 			"type": "Creature — Serpent",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/64_CU08 HL Kairyu-shin.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/64_CU08 HL Kairyu-shin.jpg"
 			}
 		},
 		{
@@ -187,7 +187,7 @@
 			"type": "Instant",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/65_CU09 FT CounterOrBounce.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/65_CU09 FT CounterOrBounce.jpg"
 			}
 		},
 		{
@@ -197,7 +197,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/66_CU10 Witness Protection.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/66_CU10 Witness Protection.jpg"
 			}
 		},
 		{
@@ -207,7 +207,7 @@
 			"type": "Sorcery",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/67_CU11 Stun Cantrip.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/67_CU11 Stun Cantrip.jpg"
 			}
 		},
 		{
@@ -217,7 +217,7 @@
 			"type": "Artifact",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/68_CU12 Pot of Greed.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/68_CU12 Pot of Greed.jpg"
 			}
 		},
 		{
@@ -227,7 +227,7 @@
 			"type": "Instant",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/69_CU13 Counterspell.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/69_CU13 Counterspell.jpg"
 			}
 		},
 		{
@@ -237,7 +237,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/70_CU14 Draw to flying.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/70_CU14 Draw to flying.jpg"
 			}
 		},
 		{
@@ -247,7 +247,7 @@
 			"type": "Instant",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/71_CU15 FT Bigger Counterspell.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/71_CU15 FT Bigger Counterspell.jpg"
 			}
 		},
 		{
@@ -257,7 +257,7 @@
 			"type": "Creature",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/95_CB01 Kuriboh.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/95_CB01 Kuriboh.jpg"
 			}
 		},
 		{
@@ -267,7 +267,7 @@
 			"type": "Creature",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/96_CB02 Lifelink Shade.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/96_CB02 Lifelink Shade.jpg"
 			}
 		},
 		{
@@ -277,7 +277,7 @@
 			"type": "Creature",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/97_CB03 Token on death.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/97_CB03 Token on death.jpg"
 			}
 		},
 		{
@@ -287,7 +287,7 @@
 			"type": "Creature",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/98_CB04 VVanilla discard.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/98_CB04 VVanilla discard.jpg"
 			}
 		},
 		{
@@ -297,7 +297,7 @@
 			"type": "Creature",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/99_CB05 TR temp menace.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/99_CB05 TR temp menace.jpg"
 			}
 		},
 		{
@@ -307,7 +307,7 @@
 			"type": "Creature",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/100_CB06 FT Fly.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/100_CB06 FT Fly.jpg"
 			}
 		},
 		{
@@ -317,7 +317,7 @@
 			"type": "Creature",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/101_CB07 TS VVanilla.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/101_CB07 TS VVanilla.jpg"
 			}
 		},
 		{
@@ -327,7 +327,7 @@
 			"type": "Creature",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/102_CB08 Sac Benefit.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/102_CB08 Sac Benefit.jpg"
 			}
 		},
 		{
@@ -337,7 +337,7 @@
 			"type": "Creature",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/103_CB09 TS FVanilla Fly Tramp.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/103_CB09 TS FVanilla Fly Tramp.jpg"
 			}
 		},
 		{
@@ -347,7 +347,7 @@
 			"type": "Instant",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/104_CB10 FT Push.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/104_CB10 FT Push.jpg"
 			}
 		},
 		{
@@ -357,7 +357,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/105_CB11 Combat Trick.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/105_CB11 Combat Trick.jpg"
 			}
 		},
 		{
@@ -367,7 +367,7 @@
 			"type": "Sorcery",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/106_CB12 TR Draw.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/106_CB12 TR Draw.jpg"
 			}
 		},
 		{
@@ -377,7 +377,7 @@
 			"type": "Sorcery",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/107_CB13 FT Hand mill.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/107_CB13 FT Hand mill.jpg"
 			}
 		},
 		{
@@ -387,7 +387,7 @@
 			"type": "Instant",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/108_CB14 Murder.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/108_CB14 Murder.jpg"
 			}
 		},
 		{
@@ -397,7 +397,7 @@
 			"type": "Sorcery",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/109_CB15 TR Destroy drain.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/109_CB15 TR Destroy drain.jpg"
 			}
 		},
 		{
@@ -407,7 +407,7 @@
 			"type": "Creature",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/133_CR01 HL Value one-drop.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/133_CR01 HL Value one-drop.jpg"
 			}
 		},
 		{
@@ -417,7 +417,7 @@
 			"type": "Creature",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/134_CR02 Discard supp.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/134_CR02 Discard supp.jpg"
 			}
 		},
 		{
@@ -427,7 +427,7 @@
 			"type": "Creature",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/135_CR03 Attacker.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/135_CR03 Attacker.jpg"
 			}
 		},
 		{
@@ -437,7 +437,7 @@
 			"type": "Creature",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/136_CR04 TR VVanilla.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/136_CR04 TR VVanilla.jpg"
 			}
 		},
 		{
@@ -447,7 +447,7 @@
 			"type": "Creature",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/137_CR05 No AttackOrBlock alone.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/137_CR05 No AttackOrBlock alone.jpg"
 			}
 		},
 		{
@@ -457,7 +457,7 @@
 			"type": "Creature",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/138_CR06 TS Self Burn.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/138_CR06 TS Self Burn.jpg"
 			}
 		},
 		{
@@ -467,7 +467,7 @@
 			"type": "Creature",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/139_CR07 Treasure on any atk.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/139_CR07 Treasure on any atk.jpg"
 			}
 		},
 		{
@@ -477,7 +477,7 @@
 			"type": "Creature",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/140_CR08 Haste VFVanilla.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/140_CR08 Haste VFVanilla.jpg"
 			}
 		},
 		{
@@ -487,7 +487,7 @@
 			"type": "Creature",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/141_CR09 Menace Bless.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/141_CR09 Menace Bless.jpg"
 			}
 		},
 		{
@@ -497,7 +497,7 @@
 			"type": "Instant",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/142_CR10 TR Sparksy.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/142_CR10 TR Sparksy.jpg"
 			}
 		},
 		{
@@ -507,7 +507,7 @@
 			"type": "Instant",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/143_CR11 Combat Trick.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/143_CR11 Combat Trick.jpg"
 			}
 		},
 		{
@@ -517,7 +517,7 @@
 			"type": "Sorcery",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/144_CR12 Discard Draw.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/144_CR12 Discard Draw.jpg"
 			}
 		},
 		{
@@ -527,7 +527,7 @@
 			"type": "Sorcery",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/145_CR13 FT Modal ArtDesOrDraw.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/145_CR13 FT Modal ArtDesOrDraw.jpg"
 			}
 		},
 		{
@@ -537,7 +537,7 @@
 			"type": "Instant",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/147_CR15 TR Damage.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/147_CR15 TR Damage.jpg"
 			}
 		},
 		{
@@ -547,7 +547,7 @@
 			"type": "Sorcery",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/146_CR14 Anger discard supp.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/146_CR14 Anger discard supp.jpg"
 			}
 		},
 		{
@@ -557,7 +557,7 @@
 			"type": "Creature",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/171_CG01 Deathtouch.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/171_CG01 Deathtouch.jpg"
 			}
 		},
 		{
@@ -567,7 +567,7 @@
 			"type": "Creature",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/172_CG02 Mana Dork.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/172_CG02 Mana Dork.jpg"
 			}
 		},
 		{
@@ -577,7 +577,7 @@
 			"type": "Creature",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/173_CG03 HL value.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/173_CG03 HL value.jpg"
 			}
 		},
 		{
@@ -587,7 +587,7 @@
 			"type": "Creature",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/174_CG04 sac to destroy.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/174_CG04 sac to destroy.jpg"
 			}
 		},
 		{
@@ -597,7 +597,7 @@
 			"type": "Creature",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/175_CG05 FVanilla.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/175_CG05 FVanilla.jpg"
 			}
 		},
 		{
@@ -607,7 +607,7 @@
 			"type": "Creature",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/176_CG06 HL Enter fight.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/176_CG06 HL Enter fight.jpg"
 			}
 		},
 		{
@@ -617,7 +617,7 @@
 			"type": "Creature — Bear",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/177_CG07 Mother Grizzly.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/177_CG07 Mother Grizzly.jpg"
 			}
 		},
 		{
@@ -627,7 +627,7 @@
 			"type": "Creature",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/178_CG08 TS VVanilla.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/178_CG08 TS VVanilla.jpg"
 			}
 		},
 		{
@@ -637,7 +637,7 @@
 			"type": "Creature",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/179_CG09 FVanilla.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/179_CG09 FVanilla.jpg"
 			}
 		},
 		{
@@ -647,7 +647,7 @@
 			"type": "Creature",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/180_CG10 TS FT Vanilla.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/180_CG10 TS FT Vanilla.jpg"
 			}
 		},
 		{
@@ -657,7 +657,7 @@
 			"type": "Sorcery",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/181_CG11 HL Fight.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/181_CG11 HL Fight.jpg"
 			}
 		},
 		{
@@ -667,7 +667,7 @@
 			"type": "Instant",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/182_CG12 FT Bite.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/182_CG12 FT Bite.jpg"
 			}
 		},
 		{
@@ -677,7 +677,7 @@
 			"type": "Instant",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/183_CG13 Combat growth.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/183_CG13 Combat growth.jpg"
 			}
 		},
 		{
@@ -687,7 +687,7 @@
 			"type": "Sorcery",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/185_CG15 Land dig.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/185_CG15 Land dig.jpg"
 			}
 		},
 		{
@@ -697,7 +697,7 @@
 			"type": "Sorcery",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/184_CG14 TR Land search.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/184_CG14 TR Land search.jpg"
 			}
 		},
 		{
@@ -707,7 +707,7 @@
 			"type": "Creature",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/61_CU05 InstOrSorc cost down.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/61_CU05 InstOrSorc cost down.jpg"
 			}
 		},
 		{
@@ -717,7 +717,7 @@
 			"type": "Artifact Creature",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/243_CA01 Scry VVanilla.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/243_CA01 Scry VVanilla.jpg"
 			}
 		},
 		{
@@ -727,7 +727,7 @@
 			"type": "Artifact Creature",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/244_CA02 Flying replacer.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/244_CA02 Flying replacer.jpg"
 			}
 		},
 		{
@@ -737,7 +737,7 @@
 			"type": "Artifact Creature",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/245_CA03 Treasure VVanilla.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/245_CA03 Treasure VVanilla.jpg"
 			}
 		},
 		{
@@ -747,7 +747,7 @@
 			"type": "Artifact",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/247_CA05 FT Mana Rock.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/247_CA05 FT Mana Rock.jpg"
 			}
 		},
 		{
@@ -757,7 +757,7 @@
 			"type": "Artifact Creature",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/252_UA01.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/252_UA01.jpg"
 			}
 		},
 		{
@@ -767,7 +767,7 @@
 			"type": "Land — Field",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/257_CL01 Dream Field.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/257_CL01 Dream Field.jpg"
 			}
 		},
 		{
@@ -777,7 +777,7 @@
 			"type": "Land — Field",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/258_CL02 Dark Storm Field.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/258_CL02 Dark Storm Field.jpg"
 			}
 		},
 		{
@@ -787,7 +787,7 @@
 			"type": "Land — Field",
 			"collector_number": "259",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/259_CL03 Volcanic Field.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/259_CL03 Volcanic Field.jpg"
 			}
 		},
 		{
@@ -797,7 +797,7 @@
 			"type": "Land — Field",
 			"collector_number": "262",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/262_CL06 Temple Field.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/262_CL06 Temple Field.jpg"
 			}
 		},
 		{
@@ -807,7 +807,7 @@
 			"type": "Land — Field",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/260_CL04 Jurassic Field.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/260_CL04 Jurassic Field.jpg"
 			}
 		},
 		{
@@ -817,7 +817,7 @@
 			"type": "Land — Field",
 			"collector_number": "263",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/263_CL07 Virtual Field.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/263_CL07 Virtual Field.jpg"
 			}
 		},
 		{
@@ -827,7 +827,7 @@
 			"type": "Land — Field",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/261_CL05 Sacred Village Field.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/261_CL05 Sacred Village Field.jpg"
 			}
 		},
 		{
@@ -837,7 +837,7 @@
 			"type": "Land — Field",
 			"collector_number": "264",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/264_CL08 Grave Field.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/264_CL08 Grave Field.jpg"
 			}
 		},
 		{
@@ -847,7 +847,7 @@
 			"type": "Land — Field",
 			"collector_number": "265",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/265_CL09 Ravine Field.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/265_CL09 Ravine Field.jpg"
 			}
 		},
 		{
@@ -857,7 +857,7 @@
 			"type": "Land — Field",
 			"collector_number": "266",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/266_CL10 Wetland Field.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/266_CL10 Wetland Field.jpg"
 			}
 		},
 		{
@@ -867,7 +867,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/248_CA06 Millennium Key.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/248_CA06 Millennium Key.jpg"
 			}
 		},
 		{
@@ -877,7 +877,7 @@
 			"type": "Creature",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/19_CW01 Lifelink.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/19_CW01 Lifelink.jpg"
 			}
 		},
 		{
@@ -887,7 +887,7 @@
 			"type": "Creature",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/62_CU06 Flash Flying.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/62_CU06 Flash Flying.jpg"
 			}
 		},
 		{
@@ -897,7 +897,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/246_CA04 Millennium Scale.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/246_CA04 Millennium Scale.jpg"
 			}
 		},
 		{
@@ -907,7 +907,7 @@
 			"type": "Creature — Soldier",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/20_CW02 Marauding Captain.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/20_CW02 Marauding Captain.jpg"
 			}
 		},
 		{
@@ -917,7 +917,7 @@
 			"type": "",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/6_RX01.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/6_RX01.jpg"
 			}
 		},
 		{
@@ -927,7 +927,7 @@
 			"type": "Creature",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/63_CU07 TS Flyer.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/63_CU07 TS Flyer.jpg"
 			}
 		},
 		{
@@ -937,7 +937,7 @@
 			"type": "Token Creature — Goat",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/1_Goat.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/1_Goat.jpg"
 			}
 		},
 		{
@@ -947,7 +947,7 @@
 			"type": "Token Creature — Soldier",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/2_Soldier.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/2_Soldier.jpg"
 			}
 		},
 		{
@@ -957,7 +957,7 @@
 			"type": "Token Creature — Bear",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/4_Bear.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/4_Bear.jpg"
 			}
 		},
 		{
@@ -967,7 +967,7 @@
 			"type": "Token Creature — Zombie",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/3_Zombie.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/3_Zombie.jpg"
 			}
 		},
 		{
@@ -977,7 +977,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/5_Treasure.png"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/5_Treasure.jpg"
 			}
 		},
 	]
