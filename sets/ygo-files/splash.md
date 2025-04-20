@@ -1,5 +1,5 @@
 <h1>Set Mechanics</h1>
-<p style="text-align:left;">There are a number of mechanics appearing in the unofficial Yu-Gi-Oh! x Magic the Gathering set. Some new and a couple returning mechanics, so lets look into them.</p>
+<p style="text-align:center;">There are a number of mechanics appearing in the unofficial Yu-Gi-Oh! x Magic the Gathering set. Some new and a couple returning mechanics, so lets look into them.</p>
 
 <h2>Foretell</h2>
 <p style="text-align:left;">Foretell makes its comeback! If you have a card with foretell in your hand, you can pay <i class="mana mana-cost mana-2"></i> to hide it away in exile face-down and cast it later for it's foretell cast.</p>
@@ -11,4 +11,6 @@
 <p style="text-align:left;">With tribute summoning, you can cast big creatures for a steeper mana cost, at the price of creatures you control. The creatures you sacrifice need to be untapped and have power 2 or more in order to be worthy sacrifices for such creatures, but each one sacrificed will pay for an amount of mana stated by the card. You can even use a card's tribute summon ability to pay for its foretell cost!</p>
 
 <h2>Home land</h2>
-<p style="text-align:left;">These spells are nice, but they get even better when used on their home turf. These cards will have special abilities that only work if you have three lands that it recognizes as its home.</p>
+<p style="text-align:left;">These spells are nice, but they get even better when used on their home turf. These cards will have special abilities that only work if you have three lands that it recognizes as its home (usually the basic land type that produces it's color).</p>
+<h4>Example</h4>
+<img src="/sets/ygo-files/img/176_CG06 HL Enter fight.jpg">
