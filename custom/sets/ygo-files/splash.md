@@ -13,4 +13,4 @@
 <h2>Home land</h2>
 <p style="text-align:left;">These spells are nice, but they get even better when used on their home turf. These cards will have special abilities that only work if you have three lands that it recognizes as its home (usually the basic land type that produces it's color).</p>
 <h4>Example</h4>
-<img src="/sets/ygo-files/img/176_CG06 HL Enter fight.jpg">
+<img src="/sets/ygo-files/img/176_CG06 HL Enter fight.jpg" height=100% width=100%>
