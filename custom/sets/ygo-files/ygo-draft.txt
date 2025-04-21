@@ -181,13 +181,13 @@
 			}
 		},
 		{
-			"name": "CU09 FT CounterOrBounce",
+			"name": "CU09 CounterOrBounce",
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/ygo-files/img/65_CU09 FT CounterOrBounce.jpg"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/65_CU09 CounterOrBounce.jpg"
 			}
 		},
 		{
@@ -231,13 +231,13 @@
 			}
 		},
 		{
-			"name": "CU14 Draw to flying",
+			"name": "CU14 FT Draw2 then fly",
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Enchantment — Aura",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/ygo-files/img/70_CU14 Draw to flying.jpg"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/70_CU14 FT Draw2 then fly.jpg"
 			}
 		},
 		{
@@ -581,13 +581,13 @@
 			}
 		},
 		{
-			"name": "CG04 sac to destroy",
+			"name": "CG04 Sac AEDestroy",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/ygo-files/img/174_CG04 sac to destroy.jpg"
+				"en": "https://salamandric.github.io/sets/ygo-files/img/174_CG04 Sac AEDestroy.jpg"
 			}
 		},
 		{
@@ -751,16 +751,6 @@
 			}
 		},
 		{
-			"name": "UA01",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Artifact Creature",
-			"collector_number": "252",
-			"image_uris": {
-				"en": "https://salamandric.github.io/sets/ygo-files/img/252_UA01.jpg"
-			}
-		},
-		{
 			"name": "CL01 Dream Field",
 			"rarity": "common",
 			"mana_cost": "",
@@ -881,6 +871,56 @@
 			}
 		},
 		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://salamandric.github.io/sets/ygo-files/img/272_Plains.jpg"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://salamandric.github.io/sets/ygo-files/img/273_Island.jpg"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://salamandric.github.io/sets/ygo-files/img/274_Swamp.jpg"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://salamandric.github.io/sets/ygo-files/img/275_Mountain.jpg"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://salamandric.github.io/sets/ygo-files/img/276_Forest.jpg"
+			}
+		},
+		{
 			"name": "CU06 Flash Flying",
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
@@ -908,16 +948,6 @@
 			"collector_number": "20",
 			"image_uris": {
 				"en": "https://salamandric.github.io/sets/ygo-files/img/20_CW02 Marauding Captain.jpg"
-			}
-		},
-		{
-			"name": "RX01",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "6",
-			"image_uris": {
-				"en": "https://salamandric.github.io/sets/ygo-files/img/6_RX01.jpg"
 			}
 		},
 		{
@@ -983,170 +1013,170 @@
 	]
 
 [rare(1)]
-	6 CW03 TS Fodder
-	6 CW06 Sky Scout
-	6 CW11 HL Celtic Guardian
-	6 CW09 Breaker, the Magical Warrior
-	6 CW05 Warded scry
-	6 CW08 FT pump
-	6 CW04 Enchant Destroy
-	6 CW10 TS Flyer
-	6 CW07 FT Token Maker
-	6 CW14 Combat Trick
-	6 CW13 FT Banishment
-	6 CW12 Combat Removal
-	6 CW15 United We Stand
-	6 CU01 Flying cycler
-	6 CU03 Warded Scryer
-	6 CU02 FT Prowess tapped
-	6 CU04 FT VVanilla
-	6 CU08 HL Kairyu-shin
-	6 CU09 FT CounterOrBounce
-	6 CU10 Witness Protection
-	6 CU11 Stun Cantrip
-	6 CU12 Pot of Greed
-	6 CU13 Counterspell
-	6 CU14 Draw to flying
-	6 CU15 FT Bigger Counterspell
-	6 CB01 Kuriboh
-	6 CB02 Lifelink Shade
-	6 CB03 Token on death
-	6 CB04 VVanilla discard
-	6 CB05 TR temp menace
-	6 CB06 FT Fly
-	6 CB07 TS VVanilla
-	6 CB08 Sac Benefit
-	6 CB09 TS FVanilla Fly Tramp
-	6 CB10 FT Push
-	6 CB11 Combat Trick
-	6 CB12 TR Draw
-	6 CB13 FT Hand mill
-	6 CB14 Murder
-	6 CB15 TR Destroy drain
-	6 CR01 HL Value one-drop
-	6 CR02 Discard supp
-	6 CR03 Attacker
-	6 CR04 TR VVanilla
-	6 CR05 No AttackOrBlock alone
-	6 CR06 TS Self Burn
-	6 CR07 Treasure on any atk
-	6 CR08 Haste VFVanilla
-	6 CR09 Menace Bless
-	6 CR10 TR Sparksy
-	6 CR11 Combat Trick
-	6 CR12 Discard Draw
-	6 CR13 FT Modal ArtDesOrDraw
-	6 CR15 TR Damage
-	6 CR14 Anger discard supp
-	6 CG01 Deathtouch
-	6 CG02 Mana Dork
-	6 CG03 HL value
-	6 CG04 sac to destroy
-	6 CG05 FVanilla
-	6 CG06 HL Enter fight
-	6 CG07 Mother Grizzly
-	6 CG08 TS VVanilla
-	6 CG09 FVanilla
-	6 CG10 TS FT Vanilla
-	6 CG11 HL Fight
-	6 CG12 FT Bite
-	6 CG13 Combat growth
-	6 CG15 Land dig
-	6 CG14 TR Land search
-	6 CU05 InstOrSorc cost down
-	6 CA01 Scry VVanilla
-	6 CA02 Flying replacer
-	6 CA03 Treasure VVanilla
-	6 CA05 FT Mana Rock
-	6 CA06 Millennium Key
-	6 CW01 Lifelink
-	6 CU06 Flash Flying
-	6 CA04 Millennium Scale
-	6 CW02 Marauding Captain
-	6 CU07 TS Flyer
-[uncommon(3)]
-	6 CW03 TS Fodder
-	6 CW06 Sky Scout
-	6 CW11 HL Celtic Guardian
-	6 CW09 Breaker, the Magical Warrior
-	6 CW05 Warded scry
-	6 CW08 FT pump
-	6 CW04 Enchant Destroy
-	6 CW10 TS Flyer
-	6 CW07 FT Token Maker
-	6 CW14 Combat Trick
-	6 CW13 FT Banishment
-	6 CW12 Combat Removal
-	6 CW15 United We Stand
-	6 CU01 Flying cycler
-	6 CU03 Warded Scryer
-	6 CU02 FT Prowess tapped
-	6 CU04 FT VVanilla
-	6 CU08 HL Kairyu-shin
-	6 CU09 FT CounterOrBounce
-	6 CU10 Witness Protection
-	6 CU11 Stun Cantrip
-	6 CU12 Pot of Greed
-	6 CU13 Counterspell
-	6 CU14 Draw to flying
-	6 CU15 FT Bigger Counterspell
-	6 CB01 Kuriboh
-	6 CB02 Lifelink Shade
-	6 CB03 Token on death
-	6 CB04 VVanilla discard
-	6 CB05 TR temp menace
-	6 CB06 FT Fly
-	6 CB07 TS VVanilla
-	6 CB08 Sac Benefit
-	6 CB09 TS FVanilla Fly Tramp
-	6 CB10 FT Push
-	6 CB11 Combat Trick
-	6 CB12 TR Draw
-	6 CB13 FT Hand mill
-	6 CB14 Murder
-	6 CB15 TR Destroy drain
-	6 CR01 HL Value one-drop
-	6 CR02 Discard supp
-	6 CR03 Attacker
-	6 CR04 TR VVanilla
-	6 CR05 No AttackOrBlock alone
-	6 CR06 TS Self Burn
-	6 CR07 Treasure on any atk
-	6 CR08 Haste VFVanilla
-	6 CR09 Menace Bless
-	6 CR10 TR Sparksy
-	6 CR11 Combat Trick
-	6 CR12 Discard Draw
-	6 CR13 FT Modal ArtDesOrDraw
-	6 CR15 TR Damage
-	6 CR14 Anger discard supp
-	6 CG01 Deathtouch
-	6 CG02 Mana Dork
-	6 CG03 HL value
-	6 CG04 sac to destroy
-	6 CG05 FVanilla
-	6 CG06 HL Enter fight
-	6 CG07 Mother Grizzly
-	6 CG08 TS VVanilla
-	6 CG09 FVanilla
-	6 CG10 TS FT Vanilla
-	6 CG11 HL Fight
-	6 CG12 FT Bite
-	6 CG13 Combat growth
-	6 CG15 Land dig
-	6 CG14 TR Land search
-	6 CU05 InstOrSorc cost down
-	6 CA01 Scry VVanilla
-	6 CA02 Flying replacer
-	6 CA03 Treasure VVanilla
-	6 CA05 FT Mana Rock
-	6 CA06 Millennium Key
-	6 CW01 Lifelink
-	6 CU06 Flash Flying
-	6 CA04 Millennium Scale
-	6 CW02 Marauding Captain
-	6 CU07 TS Flyer
-[common(7)]
+	2 CW03 TS Fodder
+	2 CW06 Sky Scout
+	2 CW11 HL Celtic Guardian
+	2 CW09 Breaker, the Magical Warrior
+	2 CW05 Warded scry
+	2 CW08 FT pump
+	2 CW04 Enchant Destroy
+	2 CW10 TS Flyer
+	2 CW07 FT Token Maker
+	2 CW14 Combat Trick
+	2 CW13 FT Banishment
+	2 CW12 Combat Removal
+	2 CW15 United We Stand
+	2 CU01 Flying cycler
+	2 CU03 Warded Scryer
+	2 CU02 FT Prowess tapped
+	2 CU04 FT VVanilla
+	2 CU08 HL Kairyu-shin
+	2 CU09 CounterOrBounce
+	2 CU10 Witness Protection
+	2 CU11 Stun Cantrip
+	2 CU12 Pot of Greed
+	2 CU13 Counterspell
+	2 CU14 FT Draw2 then fly
+	2 CU15 FT Bigger Counterspell
+	2 CB01 Kuriboh
+	2 CB02 Lifelink Shade
+	2 CB03 Token on death
+	2 CB04 VVanilla discard
+	2 CB05 TR temp menace
+	2 CB06 FT Fly
+	2 CB07 TS VVanilla
+	2 CB08 Sac Benefit
+	2 CB09 TS FVanilla Fly Tramp
+	2 CB10 FT Push
+	2 CB11 Combat Trick
+	2 CB12 TR Draw
+	2 CB13 FT Hand mill
+	2 CB14 Murder
+	2 CB15 TR Destroy drain
+	2 CR01 HL Value one-drop
+	2 CR02 Discard supp
+	2 CR03 Attacker
+	2 CR04 TR VVanilla
+	2 CR05 No AttackOrBlock alone
+	2 CR06 TS Self Burn
+	2 CR07 Treasure on any atk
+	2 CR08 Haste VFVanilla
+	2 CR09 Menace Bless
+	2 CR10 TR Sparksy
+	2 CR11 Combat Trick
+	2 CR12 Discard Draw
+	2 CR13 FT Modal ArtDesOrDraw
+	2 CR15 TR Damage
+	2 CR14 Anger discard supp
+	2 CG01 Deathtouch
+	2 CG02 Mana Dork
+	2 CG03 HL value
+	2 CG04 Sac AEDestroy
+	2 CG05 FVanilla
+	2 CG06 HL Enter fight
+	2 CG07 Mother Grizzly
+	2 CG08 TS VVanilla
+	2 CG09 FVanilla
+	2 CG10 TS FT Vanilla
+	2 CG11 HL Fight
+	2 CG12 FT Bite
+	2 CG13 Combat growth
+	2 CG15 Land dig
+	2 CG14 TR Land search
+	2 CU05 InstOrSorc cost down
+	2 CA01 Scry VVanilla
+	2 CA02 Flying replacer
+	2 CA03 Treasure VVanilla
+	2 CA05 FT Mana Rock
+	2 CA06 Millennium Key
+	2 CW01 Lifelink
+	2 CU06 Flash Flying
+	2 CA04 Millennium Scale
+	2 CW02 Marauding Captain
+	2 CU07 TS Flyer
+[uncommon(4)]
+	4 CW03 TS Fodder
+	4 CW06 Sky Scout
+	4 CW11 HL Celtic Guardian
+	4 CW09 Breaker, the Magical Warrior
+	4 CW05 Warded scry
+	4 CW08 FT pump
+	4 CW04 Enchant Destroy
+	4 CW10 TS Flyer
+	4 CW07 FT Token Maker
+	4 CW14 Combat Trick
+	4 CW13 FT Banishment
+	4 CW12 Combat Removal
+	4 CW15 United We Stand
+	4 CU01 Flying cycler
+	4 CU03 Warded Scryer
+	4 CU02 FT Prowess tapped
+	4 CU04 FT VVanilla
+	4 CU08 HL Kairyu-shin
+	4 CU09 CounterOrBounce
+	4 CU10 Witness Protection
+	4 CU11 Stun Cantrip
+	4 CU12 Pot of Greed
+	4 CU13 Counterspell
+	4 CU14 FT Draw2 then fly
+	4 CU15 FT Bigger Counterspell
+	4 CB01 Kuriboh
+	4 CB02 Lifelink Shade
+	4 CB03 Token on death
+	4 CB04 VVanilla discard
+	4 CB05 TR temp menace
+	4 CB06 FT Fly
+	4 CB07 TS VVanilla
+	4 CB08 Sac Benefit
+	4 CB09 TS FVanilla Fly Tramp
+	4 CB10 FT Push
+	4 CB11 Combat Trick
+	4 CB12 TR Draw
+	4 CB13 FT Hand mill
+	4 CB14 Murder
+	4 CB15 TR Destroy drain
+	4 CR01 HL Value one-drop
+	4 CR02 Discard supp
+	4 CR03 Attacker
+	4 CR04 TR VVanilla
+	4 CR05 No AttackOrBlock alone
+	4 CR06 TS Self Burn
+	4 CR07 Treasure on any atk
+	4 CR08 Haste VFVanilla
+	4 CR09 Menace Bless
+	4 CR10 TR Sparksy
+	4 CR11 Combat Trick
+	4 CR12 Discard Draw
+	4 CR13 FT Modal ArtDesOrDraw
+	4 CR15 TR Damage
+	4 CR14 Anger discard supp
+	4 CG01 Deathtouch
+	4 CG02 Mana Dork
+	4 CG03 HL value
+	4 CG04 Sac AEDestroy
+	4 CG05 FVanilla
+	4 CG06 HL Enter fight
+	4 CG07 Mother Grizzly
+	4 CG08 TS VVanilla
+	4 CG09 FVanilla
+	4 CG10 TS FT Vanilla
+	4 CG11 HL Fight
+	4 CG12 FT Bite
+	4 CG13 Combat growth
+	4 CG15 Land dig
+	4 CG14 TR Land search
+	4 CU05 InstOrSorc cost down
+	4 CA01 Scry VVanilla
+	4 CA02 Flying replacer
+	4 CA03 Treasure VVanilla
+	4 CA05 FT Mana Rock
+	4 CA06 Millennium Key
+	4 CW01 Lifelink
+	4 CU06 Flash Flying
+	4 CA04 Millennium Scale
+	4 CW02 Marauding Captain
+	4 CU07 TS Flyer
+[common(6)]
 	8 CW03 TS Fodder
 	8 CW06 Sky Scout
 	8 CW11 HL Celtic Guardian
@@ -1165,12 +1195,12 @@
 	8 CU02 FT Prowess tapped
 	8 CU04 FT VVanilla
 	8 CU08 HL Kairyu-shin
-	8 CU09 FT CounterOrBounce
+	8 CU09 CounterOrBounce
 	8 CU10 Witness Protection
 	8 CU11 Stun Cantrip
 	8 CU12 Pot of Greed
 	8 CU13 Counterspell
-	8 CU14 Draw to flying
+	8 CU14 FT Draw2 then fly
 	8 CU15 FT Bigger Counterspell
 	8 CB01 Kuriboh
 	8 CB02 Lifelink Shade
@@ -1205,7 +1235,7 @@
 	8 CG01 Deathtouch
 	8 CG02 Mana Dork
 	8 CG03 HL value
-	8 CG04 sac to destroy
+	8 CG04 Sac AEDestroy
 	8 CG05 FVanilla
 	8 CG06 HL Enter fight
 	8 CG07 Mother Grizzly
@@ -1247,12 +1277,12 @@
 	6 CU02 FT Prowess tapped
 	6 CU04 FT VVanilla
 	6 CU08 HL Kairyu-shin
-	6 CU09 FT CounterOrBounce
+	6 CU09 CounterOrBounce
 	6 CU10 Witness Protection
 	6 CU11 Stun Cantrip
 	6 CU12 Pot of Greed
 	6 CU13 Counterspell
-	6 CU14 Draw to flying
+	6 CU14 FT Draw2 then fly
 	6 CU15 FT Bigger Counterspell
 	6 CB01 Kuriboh
 	6 CB02 Lifelink Shade
@@ -1287,7 +1317,7 @@
 	6 CG01 Deathtouch
 	6 CG02 Mana Dork
 	6 CG03 HL value
-	6 CG04 sac to destroy
+	6 CG04 Sac AEDestroy
 	6 CG05 FVanilla
 	6 CG06 HL Enter fight
 	6 CG07 Mother Grizzly
@@ -1304,6 +1334,16 @@
 	6 CA02 Flying replacer
 	6 CA03 Treasure VVanilla
 	6 CA05 FT Mana Rock
+	6 CL01 Dream Field
+	6 CL02 Dark Storm Field
+	6 CL03 Volcanic Field
+	6 CL06 Temple Field
+	6 CL04 Jurassic Field
+	6 CL07 Virtual Field
+	6 CL05 Sacred Village Field
+	6 CL08 Grave Field
+	6 CL09 Ravine Field
+	6 CL10 Wetland Field
 	6 CA06 Millennium Key
 	6 CW01 Lifelink
 	6 CU06 Flash Flying
@@ -1314,10 +1354,15 @@
 	4 CL01 Dream Field
 	4 CL02 Dark Storm Field
 	4 CL03 Volcanic Field
-	4 CL04 Jurassic Field
-	4 CL05 Sacred Village Field
 	4 CL06 Temple Field
+	4 CL04 Jurassic Field
 	4 CL07 Virtual Field
+	4 CL05 Sacred Village Field
 	4 CL08 Grave Field
 	4 CL09 Ravine Field
 	4 CL10 Wetland Field
+	4 Plains
+	4 Island
+	4 Swamp
+	4 Mountain
+	4 Forest
