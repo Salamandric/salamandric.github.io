@@ -151,13 +151,13 @@
 			}
 		},
 		{
-			"name": "CU02 FT Prowess tapped",
+			"name": "CU02 Prowess tapped",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/58_CU02 FT Prowess tapped.png"
+				"en": "https://mse-hub/sets/ATR-files/img/58_CU02 Prowess tapped.png"
 			}
 		},
 		{
@@ -201,13 +201,13 @@
 			}
 		},
 		{
-			"name": "CU11 Stun Cantrip",
+			"name": "CU11 FT Stun",
 			"rarity": "common",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/67_CU11 Stun Cantrip.png"
+				"en": "https://mse-hub/sets/ATR-files/img/67_CU11 FT Stun.png"
 			}
 		},
 		{
@@ -664,7 +664,7 @@
 			"name": "CG12 FT Bite",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "182",
 			"image_uris": {
 				"en": "https://mse-hub/sets/ATR-files/img/182_CG12 FT Bite.png"
@@ -1030,12 +1030,12 @@
 	8 CW15 United We Stand
 	8 CU01 Flying cycler
 	8 CU03 Warded Scryer
-	8 CU02 FT Prowess tapped
+	8 CU02 Prowess tapped
 	8 CU04 FT VVanilla
 	8 CU08 HL Kairyu-shin
 	8 CU09 CounterOrBounce
 	8 CU10 Witness Protection
-	8 CU11 Stun Cantrip
+	8 CU11 FT Stun
 	8 CU12 Pot of Greed
 	8 CU13 Counterspell
 	8 CU14 FT Draw2 then fly
@@ -1122,12 +1122,12 @@
 	6 CW15 United We Stand
 	6 CU01 Flying cycler
 	6 CU03 Warded Scryer
-	6 CU02 FT Prowess tapped
+	6 CU02 Prowess tapped
 	6 CU04 FT VVanilla
 	6 CU08 HL Kairyu-shin
 	6 CU09 CounterOrBounce
 	6 CU10 Witness Protection
-	6 CU11 Stun Cantrip
+	6 CU11 FT Stun
 	6 CU12 Pot of Greed
 	6 CU13 Counterspell
 	6 CU14 FT Draw2 then fly

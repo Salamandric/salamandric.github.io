@@ -1,5 +1,5 @@
 <h2>Note to Playtesters</h2>
-<p><b>Mechanic Prefixes:</b> Cards in the playtest will have usually names that generally describe the card, with two-letter prefixes if the card uses particular set mechanics. They are the following:<br>
+<p><b>Mechanic Prefixes:</b> Cards in the playtest will have usually names that generally describe the card, with two-letter prefixes if the card is design for a particular set mechanics. They are the following:<br>
 <ul style=text-align:left;>
 <li>FT = Foretell</li>
 <li>HL = Home land</li>
@@ -21,7 +21,7 @@
 <p style="text-align:left;">Foretell makes its comeback! If you have a card with foretell in your hand, you can pay <i class="mana mana-cost mana-2"></i> to hide it away in exile face-down and cast it later for it's foretell cost.</p>
 <img src="/sets/YGO-files/img/70_CU14 FT Draw2 then fly.jpg" alt="Foretell card">
 <p>CU14 is usually cast for <i class="mana mana-cost mana-3"></i><i class="mana mana-cost mana-u"></i>, but if you spend <i class="mana mana-cost mana-2"></i> and hide it away until the next turn, you can cast it for only <i class="mana mana-cost mana-1"></i><i class="mana mana-cost mana-u"></i>.</p>
-<!--Add card with foretell with benefit-->
+<!--Add card with foretell benefit-->
 
 <h2>Home land</h2>
 <p style="text-align:left;">These spells are nice, but they get even better when used on their home turf. These cards will have special abilities that only work if you have three lands that it recognizes as its home (usually the basic land type that produces it's color).</p>
