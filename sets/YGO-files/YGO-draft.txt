@@ -203,7 +203,7 @@
 		{
 			"name": "CU11 FT Stun",
 			"rarity": "common",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
 			"collector_number": "67",
 			"image_uris": {
@@ -221,13 +221,13 @@
 			}
 		},
 		{
-			"name": "CU13 Counterspell",
+			"name": "CU13 Counterspell Scry",
 			"rarity": "common",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/69_CU13 Counterspell.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/69_CU13 Counterspell Scry.jpg"
 			}
 		},
 		{
@@ -664,7 +664,7 @@
 			"name": "CG12 FT Bite",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "182",
 			"image_uris": {
 				"en": "https://salamandric.github.io/sets/YGO-files/img/182_CG12 FT Bite.jpg"
