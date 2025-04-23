@@ -11,33 +11,33 @@
 			}
 		},
 		{
-			"name": "CW06 Sky Scout",
+			"name": "CW06 Counter buffer",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Bird Scout",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/24_CW06 Sky Scout.png"
+				"en": "https://mse-hub/sets/ATR-files/img/24_CW06 Counter buffer.png"
 			}
 		},
 		{
-			"name": "CW11 HL Celtic Guardian",
+			"name": "CW11 HL Vigilance first strike",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Elf Soldier",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/29_CW11 HL Celtic Guardian.png"
+				"en": "https://mse-hub/sets/ATR-files/img/29_CW11 HL Vigilance first strike.png"
 			}
 		},
 		{
-			"name": "CW09 Breaker, the Magical Warrior",
+			"name": "CW09 Counter EDestroy",
 			"rarity": "common",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Elf Wizard Warrior",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/27_CW09 Breaker, the Magical Warrior.png"
+				"en": "https://mse-hub/sets/ATR-files/img/27_CW09 Counter EDestroy.png"
 			}
 		},
 		{
@@ -171,13 +171,13 @@
 			}
 		},
 		{
-			"name": "CU08 HL Kairyu-shin",
+			"name": "CU08 HL Trample",
 			"rarity": "common",
 			"mana_cost": "{6}{U}",
 			"type": "Creature — Serpent",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/64_CU08 HL Kairyu-shin.png"
+				"en": "https://mse-hub/sets/ATR-files/img/64_CU08 HL Trample.png"
 			}
 		},
 		{
@@ -211,23 +211,23 @@
 			}
 		},
 		{
-			"name": "CU12 Pot of Greed",
+			"name": "CU12 Draw Artifact",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/68_CU12 Pot of Greed.png"
+				"en": "https://mse-hub/sets/ATR-files/img/68_CU12 Draw Artifact.png"
 			}
 		},
 		{
-			"name": "CU13 Counterspell",
+			"name": "CU13 Counterspell Scry",
 			"rarity": "common",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/69_CU13 Counterspell.png"
+				"en": "https://mse-hub/sets/ATR-files/img/69_CU13 Counterspell Scry.png"
 			}
 		},
 		{
@@ -251,13 +251,13 @@
 			}
 		},
 		{
-			"name": "CB01 Kuriboh",
+			"name": "CB01 Cloned",
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/95_CB01 Kuriboh.png"
+				"en": "https://mse-hub/sets/ATR-files/img/95_CB01 Cloned.png"
 			}
 		},
 		{
@@ -611,13 +611,13 @@
 			}
 		},
 		{
-			"name": "CG07 Mother Grizzly",
+			"name": "CG07 Token on die",
 			"rarity": "common",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Bear",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/177_CG07 Mother Grizzly.png"
+				"en": "https://mse-hub/sets/ATR-files/img/177_CG07 Token on die.png"
 			}
 		},
 		{
@@ -851,13 +851,13 @@
 			}
 		},
 		{
-			"name": "CA06 Millennium Key",
+			"name": "CA06 Look hand or exilegy",
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/248_CA06 Millennium Key.png"
+				"en": "https://mse-hub/sets/ATR-files/img/248_CA06 Look hand or exilegy.png"
 			}
 		},
 		{
@@ -931,23 +931,23 @@
 			}
 		},
 		{
-			"name": "CA04 Millennium Scale",
+			"name": "CA04 Finality placer",
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/246_CA04 Millennium Scale.png"
+				"en": "https://mse-hub/sets/ATR-files/img/246_CA04 Finality placer.png"
 			}
 		},
 		{
-			"name": "CW02 Marauding Captain",
+			"name": "CW02 Temp Anthem",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Soldier",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://mse-hub/sets/ATR-files/img/20_CW02 Marauding Captain.png"
+				"en": "https://mse-hub/sets/ATR-files/img/20_CW02 Temp Anthem.png"
 			}
 		},
 		{
@@ -1016,9 +1016,9 @@
 [uncommon(4)]
 [common(7)]
 	8 CW03 TS Fodder
-	8 CW06 Sky Scout
-	8 CW11 HL Celtic Guardian
-	8 CW09 Breaker, the Magical Warrior
+	8 CW06 Counter buffer
+	8 CW11 HL Vigilance first strike
+	8 CW09 Counter EDestroy
 	8 CW05 Warded scry
 	8 CW08 FT pump
 	8 CW04 Enchant Destroy
@@ -1032,15 +1032,15 @@
 	8 CU03 Warded Scryer
 	8 CU02 Prowess tapped
 	8 CU04 FT VVanilla
-	8 CU08 HL Kairyu-shin
+	8 CU08 HL Trample
 	8 CU09 CounterOrBounce
 	8 CU10 Witness Protection
 	8 CU11 FT Stun
-	8 CU12 Pot of Greed
-	8 CU13 Counterspell
+	8 CU12 Draw Artifact
+	8 CU13 Counterspell Scry
 	8 CU14 FT Draw2 then fly
 	8 CU15 FT Bigger Counterspell
-	8 CB01 Kuriboh
+	8 CB01 Cloned
 	8 CB02 Lifelink Shade
 	8 CB03 Token on death
 	8 CB04 VVanilla discard
@@ -1076,7 +1076,7 @@
 	8 CG04 Sac AEDestroy
 	8 CG05 FVanilla
 	8 CG06 HL Enter fight
-	8 CG07 Mother Grizzly
+	8 CG07 Token on die
 	8 CG08 TS VVanilla
 	8 CG09 FVanilla
 	8 CG10 TS FT Vanilla
@@ -1100,17 +1100,17 @@
 	8 CL08 Grave Field
 	8 CL09 Ravine Field
 	8 CL10 Wetland Field
-	8 CA06 Millennium Key
+	8 CA06 Look hand or exilegy
 	8 CW01 Lifelink
 	8 CU06 Flash Flying
-	8 CA04 Millennium Scale
-	8 CW02 Marauding Captain
+	8 CA04 Finality placer
+	8 CW02 Temp Anthem
 	8 CU07 TS Flyer
 [wildcard(2)]
 	6 CW03 TS Fodder
-	6 CW06 Sky Scout
-	6 CW11 HL Celtic Guardian
-	6 CW09 Breaker, the Magical Warrior
+	6 CW06 Counter buffer
+	6 CW11 HL Vigilance first strike
+	6 CW09 Counter EDestroy
 	6 CW05 Warded scry
 	6 CW08 FT pump
 	6 CW04 Enchant Destroy
@@ -1124,15 +1124,15 @@
 	6 CU03 Warded Scryer
 	6 CU02 Prowess tapped
 	6 CU04 FT VVanilla
-	6 CU08 HL Kairyu-shin
+	6 CU08 HL Trample
 	6 CU09 CounterOrBounce
 	6 CU10 Witness Protection
 	6 CU11 FT Stun
-	6 CU12 Pot of Greed
-	6 CU13 Counterspell
+	6 CU12 Draw Artifact
+	6 CU13 Counterspell Scry
 	6 CU14 FT Draw2 then fly
 	6 CU15 FT Bigger Counterspell
-	6 CB01 Kuriboh
+	6 CB01 Cloned
 	6 CB02 Lifelink Shade
 	6 CB03 Token on death
 	6 CB04 VVanilla discard
@@ -1168,7 +1168,7 @@
 	6 CG04 Sac AEDestroy
 	6 CG05 FVanilla
 	6 CG06 HL Enter fight
-	6 CG07 Mother Grizzly
+	6 CG07 Token on die
 	6 CG08 TS VVanilla
 	6 CG09 FVanilla
 	6 CG10 TS FT Vanilla
@@ -1192,9 +1192,9 @@
 	6 CL08 Grave Field
 	6 CL09 Ravine Field
 	6 CL10 Wetland Field
-	6 CA06 Millennium Key
+	6 CA06 Look hand or exilegy
 	6 CW01 Lifelink
 	6 CU06 Flash Flying
-	6 CA04 Millennium Scale
-	6 CW02 Marauding Captain
+	6 CA04 Finality placer
+	6 CW02 Temp Anthem
 	6 CU07 TS Flyer
