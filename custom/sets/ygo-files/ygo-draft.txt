@@ -931,13 +931,13 @@
 			}
 		},
 		{
-			"name": "CG07 Finality placer",
+			"name": "CA04 Finality placer",
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/246_CG07 Finality placer.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/246_CA04 Finality placer.jpg"
 			}
 		},
 		{
@@ -1334,16 +1334,6 @@
 	6 CA02 Flying replacer
 	6 CA03 Treasure VVanilla
 	6 CA05 FT Mana Rock
-	6 CL01 Dream Field
-	6 CL02 Dark Storm Field
-	6 CL03 Volcanic Field
-	6 CL06 Temple Field
-	6 CL04 Jurassic Field
-	6 CL07 Virtual Field
-	6 CL05 Sacred Village Field
-	6 CL08 Grave Field
-	6 CL09 Ravine Field
-	6 CL10 Wetland Field
 	6 CA06 Look hand or exilegy
 	6 CW01 Lifelink
 	6 CU06 Flash Flying
