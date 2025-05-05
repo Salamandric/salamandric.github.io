@@ -1013,169 +1013,7 @@
 	]
 
 [rare(1)]
-	2 CW03 Familiar Knight
-	2 CW06 Spear Dragon
-	2 CW11 Celtic Guardian
-	2 CW09 Breaker, the Magical Warrior
-	2 CW05 Beaver Warrior
-	2 CW08 Mystical Elf
-	2 CW04 Holding Arms
-	2 CW10 Hyozanryu
-	2 CW07 Stray Lambs
-	2 CW13 Waboku
-	2 CW14 Reinforcement of the Army
-	2 CW12 Light of Intervention
-	2 CW15 United We Stand
-	2 CU01 Stealth Bird
-	2 CU03 Illusionist Faceless Mage
-	2 CU02 Element Magician
-	2 CU04 Toon Mermaid
-	2 CU08 Kairyu-shin
-	2 CU09 Compulsory Evactuation Device
-	2 CU10 Mask of Dispel
-	2 CU11 Spellbinding Circle
-	2 CU12 Pot of Greed
-	2 CU13 De-Spell
-	2 CU14 Mist Body
-	2 CU15 Magic Drain
-	2 CB01 Kuriboh
-	2 CB02 Night Assailant
-	2 CB03 Double Coston
-	2 CB04 Steel Scorpion
-	2 CB06 Mammoth Graveyard
-	2 CB05 Flash Assailant
-	2 CB07 Berfomet
-	2 CB08 Shadow Ghoul
-	2 CB09 Beast of Talwar
-	2 CB10 Trap Hole
-	2 CB11 Kunai with Chain
-	2 CB12 Reckless Greed
-	2 CB13 Mind Crush
-	2 CB14 Tribute to the Doomed
-	2 CB15 Soul Taker
-	2 CR01 Hinotama Soul
-	2 CR02 Fire Princess
-	2 CR03 Raging Flame Sprite
-	2 CR04 Berserk Gorilla
-	2 CR05 Hitotsu-Me Giant
-	2 CR06 Flame Cerebrus
-	2 CR07 Slot Machine
-	2 CR08 Flame Manipulator
-	2 CR09 Mechanicalchaser
-	2 CR10 Sparks
-	2 CR11 Raise Body Heat
-	2 CR12 Reload
-	2 CR13 Stamping Destruction
-	2 CR15 Meteor of Destruction
-	2 CR14 Rebellion
-	2 CG01 Leghul
-	2 CG02 Witch of the Black Forest
-	2 CG03 Flower Wolf
-	2 CG04 Basic Insect
-	2 CG05 Dark Gray
-	2 CG06 Gazelle, King of Mythical Beasts
-	2 CG07 Mother Grizzly
-	2 CG09 Bazoo, the Soul-Eater
-	2 CG08 Amazoness Chain Master
-	2 CG10 Megazowler
-	2 CG11 Spring of Rebirth
-	2 CG12 Quick Attack
-	2 CG13 Rush Recklessly
-	2 CG15 Rain of Mercy
-	2 CG14 Gaia Power
-	2 CU05 Aqua Madoor
-	2 CA01 Disk Magician
-	2 CA02 Metal Dragon
-	2 CA03 Yaranzo
-	2 CA05 Pitch-Black Power Stone
-	2 CA06 Millennium Key
-	2 CW01 Harpie Girl
-	2 CU06 Flying Fish
-	2 CA04 Millennium Scale
-	2 CW02 Marauding Captain
-	2 CU07 Humanoid Worm Drake
 [uncommon(4)]
-	4 CW03 Familiar Knight
-	4 CW06 Spear Dragon
-	4 CW11 Celtic Guardian
-	4 CW09 Breaker, the Magical Warrior
-	4 CW05 Beaver Warrior
-	4 CW08 Mystical Elf
-	4 CW04 Holding Arms
-	4 CW10 Hyozanryu
-	4 CW07 Stray Lambs
-	4 CW13 Waboku
-	4 CW14 Reinforcement of the Army
-	4 CW12 Light of Intervention
-	4 CW15 United We Stand
-	4 CU01 Stealth Bird
-	4 CU03 Illusionist Faceless Mage
-	4 CU02 Element Magician
-	4 CU04 Toon Mermaid
-	4 CU08 Kairyu-shin
-	4 CU09 Compulsory Evactuation Device
-	4 CU10 Mask of Dispel
-	4 CU11 Spellbinding Circle
-	4 CU12 Pot of Greed
-	4 CU13 De-Spell
-	4 CU14 Mist Body
-	4 CU15 Magic Drain
-	4 CB01 Kuriboh
-	4 CB02 Night Assailant
-	4 CB03 Double Coston
-	4 CB04 Steel Scorpion
-	4 CB06 Mammoth Graveyard
-	4 CB05 Flash Assailant
-	4 CB07 Berfomet
-	4 CB08 Shadow Ghoul
-	4 CB09 Beast of Talwar
-	4 CB10 Trap Hole
-	4 CB11 Kunai with Chain
-	4 CB12 Reckless Greed
-	4 CB13 Mind Crush
-	4 CB14 Tribute to the Doomed
-	4 CB15 Soul Taker
-	4 CR01 Hinotama Soul
-	4 CR02 Fire Princess
-	4 CR03 Raging Flame Sprite
-	4 CR04 Berserk Gorilla
-	4 CR05 Hitotsu-Me Giant
-	4 CR06 Flame Cerebrus
-	4 CR07 Slot Machine
-	4 CR08 Flame Manipulator
-	4 CR09 Mechanicalchaser
-	4 CR10 Sparks
-	4 CR11 Raise Body Heat
-	4 CR12 Reload
-	4 CR13 Stamping Destruction
-	4 CR15 Meteor of Destruction
-	4 CR14 Rebellion
-	4 CG01 Leghul
-	4 CG02 Witch of the Black Forest
-	4 CG03 Flower Wolf
-	4 CG04 Basic Insect
-	4 CG05 Dark Gray
-	4 CG06 Gazelle, King of Mythical Beasts
-	4 CG07 Mother Grizzly
-	4 CG09 Bazoo, the Soul-Eater
-	4 CG08 Amazoness Chain Master
-	4 CG10 Megazowler
-	4 CG11 Spring of Rebirth
-	4 CG12 Quick Attack
-	4 CG13 Rush Recklessly
-	4 CG15 Rain of Mercy
-	4 CG14 Gaia Power
-	4 CU05 Aqua Madoor
-	4 CA01 Disk Magician
-	4 CA02 Metal Dragon
-	4 CA03 Yaranzo
-	4 CA05 Pitch-Black Power Stone
-	4 CA06 Millennium Key
-	4 CW01 Harpie Girl
-	4 CU06 Flying Fish
-	4 CA04 Millennium Scale
-	4 CW02 Marauding Captain
-	4 CU07 Humanoid Worm Drake
 [common(7)]
 	8 CW03 Familiar Knight
 	8 CW06 Spear Dragon
@@ -1252,6 +1090,16 @@
 	8 CA02 Metal Dragon
 	8 CA03 Yaranzo
 	8 CA05 Pitch-Black Power Stone
+	8 CL01 Ocean City Field
+	8 CL02 Dark Storm Field
+	8 CL03 Volcanic Field
+	8 CL06 Temple Field
+	8 CL04 Jurassic Field
+	8 CL07 Virtual Field
+	8 CL05 Secret Village Field
+	8 CL08 Graveyard Field
+	8 CL09 Ravine Field
+	8 CL10 Wetland Field
 	8 CA06 Millennium Key
 	8 CW01 Harpie Girl
 	8 CU06 Flying Fish
@@ -1334,13 +1182,6 @@
 	6 CA02 Metal Dragon
 	6 CA03 Yaranzo
 	6 CA05 Pitch-Black Power Stone
-	6 CA06 Millennium Key
-	6 CW01 Harpie Girl
-	6 CU06 Flying Fish
-	6 CA04 Millennium Scale
-	6 CW02 Marauding Captain
-	6 CU07 Humanoid Worm Drake
-[landslot(1)]
 	6 CL01 Ocean City Field
 	6 CL02 Dark Storm Field
 	6 CL03 Volcanic Field
@@ -1351,8 +1192,9 @@
 	6 CL08 Graveyard Field
 	6 CL09 Ravine Field
 	6 CL10 Wetland Field
-	6 Plains
-	6 Island
-	6 Swamp
-	6 Mountain
-	6 Forest
+	6 CA06 Millennium Key
+	6 CW01 Harpie Girl
+	6 CU06 Flying Fish
+	6 CA04 Millennium Scale
+	6 CW02 Marauding Captain
+	6 CU07 Humanoid Worm Drake
