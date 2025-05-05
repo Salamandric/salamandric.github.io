@@ -1,14 +1,6 @@
 <h2>Note to Playtesters</h2>
-<p><b>Mechanic Prefixes:</b> Cards in the playtest will have usually names that generally describe the card, with two-letter prefixes if the card is design for a particular set mechanics. They are the following:<br>
-<ul style=text-align:left;>
-<li>FT = Foretell</li>
-<li>HL = Home land</li>
-<li>TR = Take a risk</li>
-<li>TS = Tribute summon</li>
-</ul>
 <br>
 <p><b>Design Codes:</b> Cards in the playtest will have design codes on them that are the first part of the card's name. These codes look like "UR04", and are mainly for the design side, but if you want to know what they mean I'll describe it here. The first character displays rarity, the second card color/type, and then its index.</p>
-<p>So a card with the name "UW04 TR AEDestroy" would be the fourth uncommon white card in the set, with an effect involving taking a risk, and destroying artifacts and/or enchantments.</p>
 
 <h1>Set Mechanics</h1>
 <p style="text-align:left;">There are a number of mechanics appearing in the unofficial Yu-Gi-Oh! x Magic the Gathering set. Some new and a couple returning mechanics, so lets look into them.</p>
