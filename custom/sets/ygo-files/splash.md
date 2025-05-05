@@ -10,7 +10,7 @@
 
 <h2>Foretell</h2>
 <p style="text-align:left;">Foretell makes its comeback! If you have a card with foretell in your hand, you can pay <i class="mana mana-cost mana-2"></i> to hide it away in exile face-down and cast it later for it's foretell cost.</p>
-<img src="/sets/YGO-files/img/66_CU11 Spellbinding Circle.jpg" alt="Foretell card"><img src="/sets/YGO-files/img/59_CU04 Toon Mermaid" alt="Foretell Benefit">
+<img src="/sets/YGO-files/img/66_CU11 Spellbinding Circle.jpg" alt="Foretell card"><img src="/sets/YGO-files/img/59_CU04 Toon Mermaid.jpg" alt="Foretell Benefit">
 <p>Spellbinding Circle is usually cast for <i class="mana mana-cost mana-2"></i><i class="mana mana-cost mana-u"></i>, but if you spend <i class="mana mana-cost mana-2"></i> and hide it away until the next turn, you can cast it for only <i class="mana mana-cost mana-u"></i>. Toon Mermaid even gets a buff if you tuck it away for a turn, entering with a +1/+1 counter.</p>
 
 <h2>Home land</h2>
@@ -20,7 +20,7 @@
 
 <h2>Take a risk</h2>
 <p style="text-align:left;">Wanna bet it all on red? Think you have what it takes to not go minus one? Then taking a risk is great for you! When a card says to take a risk, you discard a card from your hand, and look at the top card of your deck. If the top card happens to share a card type with the card you discarded, you can show off how your risk paid off and add it to your hand. Although you could say that either way you're winning, because cards have bonuses if you take a risk regardless of whether it paid off or not.</p>
-<img src="/sets/YGO-files/img/141_CR10 Sparks.jpg" alt="Risk card"><img src="/sets/YGO-files/img/105_CB12 Reckless Greed" alt="Risk Payoff card">
+<img src="/sets/YGO-files/img/141_CR10 Sparks.jpg" alt="Risk card"><img src="/sets/YGO-files/img/105_CB12 Reckless Greed.jpg" alt="Risk Payoff card">
 <p>With Sparks, you can take a risk to deal an extra point of damage, regardless of if you got another card. With Reckless Greed however, you better be sure, or else you're going to lose a lot of life.</p>
 
 <h2>Tribute summon</h2>
