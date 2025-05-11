@@ -5,9 +5,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Knight",
-			"collector_number": "20",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/20_CW03 Familiar Knight.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/18_CW03 Familiar Knight.jpg"
 			}
 		},
 		{
@@ -15,9 +15,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Dragon",
-			"collector_number": "23",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/23_CW06 Spear Dragon.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/21_CW06 Spear Dragon.jpg"
 			}
 		},
 		{
@@ -25,19 +25,19 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Elf Soldier",
-			"collector_number": "28",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/28_CW11 Celtic Guardian.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/26_CW11 Celtic Guardian.jpg"
 			}
 		},
 		{
-			"name": "CW09 Breaker, the Magical Warrior",
+			"name": "CW09 Breaker, Magical Warrior",
 			"rarity": "common",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Legendary Creature — Elf Warrior",
-			"collector_number": "26",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/26_CW09 Breaker, the Magical Warrior.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/24_CW09 Breaker, Magical Warrior.jpg"
 			}
 		},
 		{
@@ -45,9 +45,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Beaver Warrior",
-			"collector_number": "22",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/22_CW05 Beaver Warrior.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/20_CW05 Beaver Warrior.jpg"
 			}
 		},
 		{
@@ -55,29 +55,29 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Elf Cleric",
-			"collector_number": "25",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/25_CW08 Mystical Elf.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/23_CW08 Mystical Elf.jpg"
 			}
 		},
 		{
-			"name": "CW04 Holding Arms",
+			"name": "CW04 Banisher of the Light",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Artifact Creature — Construct",
-			"collector_number": "21",
+			"type": "Creature — Cleric",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/21_CW04 Holding Arms.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/19_CW04 Banisher of the Light.jpg"
 			}
 		},
 		{
 			"name": "CW10 Hyozanryu",
 			"rarity": "common",
-			"mana_cost": "{4}{W}",
+			"mana_cost": "{3}{W}{W}",
 			"type": "Creature — Dragon",
-			"collector_number": "27",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/27_CW10 Hyozanryu.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/25_CW10 Hyozanryu.jpg"
 			}
 		},
 		{
@@ -85,9 +85,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Sorcery",
-			"collector_number": "24",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/24_CW07 Stray Lambs.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/22_CW07 Stray Lambs.jpg"
 			}
 		},
 		{
@@ -95,9 +95,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
-			"collector_number": "30",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/30_CW13 Waboku.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/28_CW13 Waboku.jpg"
 			}
 		},
 		{
@@ -105,9 +105,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Instant",
-			"collector_number": "31",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/31_CW14 Reinforcement of the Army.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/29_CW14 Reinforcement of the Army.jpg"
 			}
 		},
 		{
@@ -115,9 +115,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "29",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/29_CW12 Light of Intervention.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/27_CW12 Light of Intervention.jpg"
 			}
 		},
 		{
@@ -125,9 +125,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "32",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/32_CW15 United We Stand.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/30_CW15 United We Stand.jpg"
 			}
 		},
 		{
@@ -135,9 +135,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Bird",
-			"collector_number": "56",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/56_CU01 Stealth Bird.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/54_CU01 Stealth Bird.jpg"
 			}
 		},
 		{
@@ -145,9 +145,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Illusion Wizard",
-			"collector_number": "58",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/58_CU03 Illusionist Faceless Mage.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/56_CU03 Illusionist Faceless Mage.jpg"
 			}
 		},
 		{
@@ -155,9 +155,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "57",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/57_CU02 Element Magician.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/55_CU02 Element Magician.jpg"
 			}
 		},
 		{
@@ -165,9 +165,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Merfolk Archer",
-			"collector_number": "59",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/59_CU04 Toon Mermaid.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/57_CU04 Toon Mermaid.jpg"
 			}
 		},
 		{
@@ -175,9 +175,9 @@
 			"rarity": "common",
 			"mana_cost": "{6}{U}",
 			"type": "Creature — Serpent",
-			"collector_number": "63",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/63_CU08 Kairyu-shin.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/61_CU08 Kairyu-shin.jpg"
 			}
 		},
 		{
@@ -185,9 +185,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "64",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/64_CU09 Compulsory Evactuation Device.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/62_CU09 Compulsory Evactuation Device.jpg"
 			}
 		},
 		{
@@ -195,9 +195,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "65",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/65_CU10 Mask of Dispel.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/63_CU10 Mask of Dispel.jpg"
 			}
 		},
 		{
@@ -205,9 +205,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
-			"collector_number": "66",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/66_CU11 Spellbinding Circle.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/64_CU11 Spellbinding Circle.jpg"
 			}
 		},
 		{
@@ -215,9 +215,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact",
-			"collector_number": "67",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/67_CU12 Pot of Greed.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/65_CU12 Pot of Greed.jpg"
 			}
 		},
 		{
@@ -225,9 +225,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "68",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/68_CU13 De-Spell.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/66_CU13 De-Spell.jpg"
 			}
 		},
 		{
@@ -235,9 +235,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Enchantment",
-			"collector_number": "69",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/69_CU14 Mist Body.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/67_CU14 Mist Body.jpg"
 			}
 		},
 		{
@@ -245,9 +245,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Instant",
-			"collector_number": "70",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/70_CU15 Magic Drain.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/68_CU15 Magic Drain.jpg"
 			}
 		},
 		{
@@ -255,9 +255,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Imp",
-			"collector_number": "94",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/94_CB01 Kuriboh.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/92_CB01 Kuriboh.jpg"
 			}
 		},
 		{
@@ -265,9 +265,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Shade Assassin",
-			"collector_number": "95",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/95_CB02 Night Assailant.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/93_CB02 Night Assailant.jpg"
 			}
 		},
 		{
@@ -275,9 +275,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Spirit",
-			"collector_number": "96",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/96_CB03 Double Coston.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/94_CB03 Double Coston.jpg"
 			}
 		},
 		{
@@ -285,29 +285,29 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Artifact Creature — Scorpion",
-			"collector_number": "97",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/97_CB04 Steel Scorpion.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/95_CB04 Steel Scorpion.jpg"
 			}
 		},
 		{
-			"name": "CB06 Mammoth Graveyard",
-			"rarity": "common",
-			"mana_cost": "{3}{B}",
-			"type": "Creature — Elephant Skeleton",
-			"collector_number": "99",
-			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/99_CB06 Mammoth Graveyard.jpg"
-			}
-		},
-		{
-			"name": "CB05 Flash Assailant",
+			"name": "CB05 Mammoth Graveyard",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Human Assassin",
-			"collector_number": "98",
+			"type": "Creature — Elephant Skeleton",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/98_CB05 Flash Assailant.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/96_CB05 Mammoth Graveyard.jpg"
+			}
+		},
+		{
+			"name": "CB06 Flash Assailant",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://salamandric.github.io/sets/YGO-files/img/97_CB06 Flash Assailant.jpg"
 			}
 		},
 		{
@@ -315,9 +315,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}{B}{B}",
 			"type": "Legendary Creature — Demon",
-			"collector_number": "100",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/100_CB07 Berfomet.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/98_CB07 Berfomet.jpg"
 			}
 		},
 		{
@@ -325,9 +325,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Horror",
-			"collector_number": "101",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/101_CB08 Shadow Ghoul.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/99_CB08 Shadow Ghoul.jpg"
 			}
 		},
 		{
@@ -335,9 +335,9 @@
 			"rarity": "common",
 			"mana_cost": "{6}{B}",
 			"type": "Creature — Demon",
-			"collector_number": "102",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/102_CB09 Beast of Talwar.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/100_CB09 Beast of Talwar.jpg"
 			}
 		},
 		{
@@ -345,9 +345,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "103",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/103_CB10 Trap Hole.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/101_CB10 Trap Hole.jpg"
 			}
 		},
 		{
@@ -355,9 +355,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact — Equipment",
-			"collector_number": "104",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/104_CB11 Kunai with Chain.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/102_CB11 Kunai with Chain.jpg"
 			}
 		},
 		{
@@ -365,9 +365,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "105",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/105_CB12 Reckless Greed.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/103_CB12 Reckless Greed.jpg"
 			}
 		},
 		{
@@ -375,9 +375,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "106",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/106_CB13 Mind Crush.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/104_CB13 Mind Crush.jpg"
 			}
 		},
 		{
@@ -385,9 +385,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Instant",
-			"collector_number": "107",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/107_CB14 Tribute to the Doomed.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/105_CB14 Tribute to the Doomed.jpg"
 			}
 		},
 		{
@@ -395,9 +395,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "108",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/108_CB15 Soul Taker.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/106_CB15 Soul Taker.jpg"
 			}
 		},
 		{
@@ -405,9 +405,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Elemental",
-			"collector_number": "132",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/132_CR01 Hinotama Soul.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/130_CR01 Hinotama Soul.jpg"
 			}
 		},
 		{
@@ -415,9 +415,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Noble",
-			"collector_number": "133",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/133_CR02 Fire Princess.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/131_CR02 Fire Princess.jpg"
 			}
 		},
 		{
@@ -425,9 +425,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Faerie",
-			"collector_number": "134",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/134_CR03 Raging Flame Sprite.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/132_CR03 Raging Flame Sprite.jpg"
 			}
 		},
 		{
@@ -435,9 +435,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Ape",
-			"collector_number": "135",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/135_CR04 Berserk Gorilla.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/133_CR04 Berserk Gorilla.jpg"
 			}
 		},
 		{
@@ -445,9 +445,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Cyclops",
-			"collector_number": "136",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/136_CR05 Hitotsu-Me Giant.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/134_CR05 Hitotsu-Me Giant.jpg"
 			}
 		},
 		{
@@ -455,9 +455,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Dog",
-			"collector_number": "137",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/137_CR06 Flame Cerebrus.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/135_CR06 Flame Cerebrus.jpg"
 			}
 		},
 		{
@@ -465,9 +465,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "138",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/138_CR07 Slot Machine.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/136_CR07 Slot Machine.jpg"
 			}
 		},
 		{
@@ -475,9 +475,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "139",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/139_CR08 Flame Manipulator.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/137_CR08 Flame Manipulator.jpg"
 			}
 		},
 		{
@@ -485,9 +485,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "140",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/140_CR09 Mechanicalchaser.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/138_CR09 Mechanicalchaser.jpg"
 			}
 		},
 		{
@@ -495,9 +495,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "141",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/141_CR10 Sparks.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/139_CR10 Sparks.jpg"
 			}
 		},
 		{
@@ -505,9 +505,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "142",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/142_CR11 Raise Body Heat.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/140_CR11 Raise Body Heat.jpg"
 			}
 		},
 		{
@@ -515,9 +515,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "143",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/143_CR12 Reload.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/141_CR12 Reload.jpg"
 			}
 		},
 		{
@@ -525,9 +525,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "144",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/144_CR13 Stamping Destruction.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/142_CR13 Stamping Destruction.jpg"
 			}
 		},
 		{
@@ -535,9 +535,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Instant",
-			"collector_number": "146",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/146_CR15 Meteor of Destruction.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/144_CR15 Meteor of Destruction.jpg"
 			}
 		},
 		{
@@ -545,9 +545,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "145",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/145_CR14 Rebellion.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/143_CR14 Rebellion.jpg"
 			}
 		},
 		{
@@ -555,9 +555,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Insect",
-			"collector_number": "170",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/170_CG01 Leghul.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/168_CG01 Leghul.jpg"
 			}
 		},
 		{
@@ -565,9 +565,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Elf Warlock",
-			"collector_number": "171",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/171_CG02 Witch of the Black Forest.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/169_CG02 Witch of the Black Forest.jpg"
 			}
 		},
 		{
@@ -575,9 +575,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Plant Dog",
-			"collector_number": "172",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/172_CG03 Flower Wolf.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/170_CG03 Flower Wolf.jpg"
 			}
 		},
 		{
@@ -585,9 +585,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Insect",
-			"collector_number": "173",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/173_CG04 Basic Insect.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/171_CG04 Basic Insect.jpg"
 			}
 		},
 		{
@@ -595,9 +595,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Beast",
-			"collector_number": "174",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/174_CG05 Dark Gray.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/172_CG05 Dark Gray.jpg"
 			}
 		},
 		{
@@ -605,9 +605,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Beast",
-			"collector_number": "175",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/175_CG06 Gazelle, King of Mythical Beasts.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/173_CG06 Gazelle, King of Mythical Beasts.jpg"
 			}
 		},
 		{
@@ -615,19 +615,19 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Bear",
-			"collector_number": "176",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/176_CG07 Mother Grizzly.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/174_CG07 Mother Grizzly.jpg"
 			}
 		},
 		{
-			"name": "CG09 Bazoo, the Soul-Eater",
+			"name": "CG09 Bazoo, Soul-Eater",
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Legendary Creature — Ape",
-			"collector_number": "178",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/178_CG09 Bazoo, the Soul-Eater.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/176_CG09 Bazoo, Soul-Eater.jpg"
 			}
 		},
 		{
@@ -635,9 +635,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "177",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/177_CG08 Amazoness Chain Master.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/175_CG08 Amazoness Chain Master.jpg"
 			}
 		},
 		{
@@ -645,9 +645,9 @@
 			"rarity": "common",
 			"mana_cost": "{6}{G}{G}",
 			"type": "Creature — Dinosaur",
-			"collector_number": "179",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/179_CG10 Megazowler.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/177_CG10 Megazowler.jpg"
 			}
 		},
 		{
@@ -655,9 +655,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "180",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/180_CG11 Spring of Rebirth.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/178_CG11 Spring of Rebirth.jpg"
 			}
 		},
 		{
@@ -665,9 +665,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "181",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/181_CG12 Quick Attack.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/179_CG12 Quick Attack.jpg"
 			}
 		},
 		{
@@ -675,9 +675,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "182",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/182_CG13 Rush Recklessly.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/180_CG13 Rush Recklessly.jpg"
 			}
 		},
 		{
@@ -685,9 +685,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Sorcery",
-			"collector_number": "184",
+			"collector_number": "182",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/184_CG15 Rain of Mercy.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/182_CG15 Rain of Mercy.jpg"
 			}
 		},
 		{
@@ -695,9 +695,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "183",
+			"collector_number": "181",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/183_CG14 Gaia Power.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/181_CG14 Gaia Power.jpg"
 			}
 		},
 		{
@@ -705,9 +705,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Elemental Wizard",
-			"collector_number": "60",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/60_CU05 Aqua Madoor.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/58_CU05 Aqua Madoor.jpg"
 			}
 		},
 		{
@@ -731,13 +731,13 @@
 			}
 		},
 		{
-			"name": "CA03 Yaranzo",
+			"name": "CA03 Man-Eating Treasure Chest",
 			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Shapeshifter",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/245_CA03 Yaranzo.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/245_CA03 Man-Eating Treasure Chest.jpg"
 			}
 		},
 		{
@@ -865,9 +865,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Bird",
-			"collector_number": "18",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/18_CW01 Harpie Girl.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/16_CW01 Harpie Girl.jpg"
 			}
 		},
 		{
@@ -875,9 +875,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Fish",
-			"collector_number": "61",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/61_CU06 Flying Fish.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/59_CU06 Flying Fish.jpg"
 			}
 		},
 		{
@@ -895,9 +895,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Soldier",
-			"collector_number": "19",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/19_CW02 Marauding Captain.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/17_CW02 Marauding Captain.jpg"
 			}
 		},
 		{
@@ -905,59 +905,49 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Drake",
-			"collector_number": "62",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/62_CU07 Humanoid Worm Drake.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/60_CU07 Humanoid Worm Drake.jpg"
 			}
 		},
 		{
-			"name": "Goat",
+			"name": "Sheep Token",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Goat",
+			"type": "Token Creature — Sheep",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/1_Goat.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/1_Sheep Token.jpg"
 			}
 		},
 		{
-			"name": "Soldier",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Soldier",
-			"collector_number": "2",
-			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/2_Soldier.jpg"
-			}
-		},
-		{
-			"name": "Bear",
+			"name": "Bear Token",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Bear",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/4_Bear.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/4_Bear Token.jpg"
 			}
 		},
 		{
-			"name": "Spirit",
+			"name": "Spirit Token",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Spirit",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/3_Spirit.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/3_Spirit Token.jpg"
 			}
 		},
 		{
-			"name": "Treasure",
+			"name": "Treasure Token",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "5",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/5_Treasure.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/6_Treasure Token.jpg"
 			}
 		},
 		{
@@ -995,9 +985,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "282",
+			"collector_number": "281",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/282_Swamp.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/281_Swamp.jpg"
 			}
 		},
 		{
@@ -1005,115 +995,123 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "279",
+			"collector_number": "280",
 			"image_uris": {
-				"en": "https://salamandric.github.io/sets/YGO-files/img/279_Island.jpg"
+				"en": "https://salamandric.github.io/sets/YGO-files/img/280_Island.jpg"
+			}
+		},
+		{
+			"name": "Soldier Token",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Soldier",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://salamandric.github.io/sets/YGO-files/img/2_Soldier Token.jpg"
+			}
+		},
+		{
+			"name": "Foretell",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://salamandric.github.io/sets/YGO-files/img/1_Foretell.jpg"
 			}
 		},
 	]
 
 [rare(1)]
+	2 CW03 Familiar Knight
+	2 CW06 Spear Dragon
+	2 CW11 Celtic Guardian
+	2 CW09 Breaker, Magical Warrior
+	2 CW05 Beaver Warrior
+	2 CW08 Mystical Elf
+	2 CW04 Banisher of the Light
+	2 CW10 Hyozanryu
+	2 CW07 Stray Lambs
+	2 CW13 Waboku
+	2 CW14 Reinforcement of the Army
+	2 CW12 Light of Intervention
+	2 CW15 United We Stand
+	2 CU01 Stealth Bird
+	2 CU03 Illusionist Faceless Mage
+	2 CU02 Element Magician
+	2 CU04 Toon Mermaid
+	2 CU08 Kairyu-shin
+	2 CU09 Compulsory Evactuation Device
+	2 CU10 Mask of Dispel
+	2 CU11 Spellbinding Circle
+	2 CU12 Pot of Greed
+	2 CU13 De-Spell
+	2 CU14 Mist Body
+	2 CU15 Magic Drain
+	2 CB01 Kuriboh
+	2 CB02 Night Assailant
+	2 CB03 Double Coston
+	2 CB04 Steel Scorpion
+	2 CB05 Mammoth Graveyard
+	2 CB06 Flash Assailant
+	2 CB07 Berfomet
+	2 CB08 Shadow Ghoul
+	2 CB09 Beast of Talwar
+	2 CB10 Trap Hole
+	2 CB11 Kunai with Chain
+	2 CB12 Reckless Greed
+	2 CB13 Mind Crush
+	2 CB14 Tribute to the Doomed
+	2 CB15 Soul Taker
+	2 CR01 Hinotama Soul
+	2 CR02 Fire Princess
+	2 CR03 Raging Flame Sprite
+	2 CR04 Berserk Gorilla
+	2 CR05 Hitotsu-Me Giant
+	2 CR06 Flame Cerebrus
+	2 CR07 Slot Machine
+	2 CR08 Flame Manipulator
+	2 CR09 Mechanicalchaser
+	2 CR10 Sparks
+	2 CR11 Raise Body Heat
+	2 CR12 Reload
+	2 CR13 Stamping Destruction
+	2 CR15 Meteor of Destruction
+	2 CR14 Rebellion
+	2 CG01 Leghul
+	2 CG02 Witch of the Black Forest
+	2 CG03 Flower Wolf
+	2 CG04 Basic Insect
+	2 CG05 Dark Gray
+	2 CG06 Gazelle, King of Mythical Beasts
+	2 CG07 Mother Grizzly
+	2 CG09 Bazoo, Soul-Eater
+	2 CG08 Amazoness Chain Master
+	2 CG10 Megazowler
+	2 CG11 Spring of Rebirth
+	2 CG12 Quick Attack
+	2 CG13 Rush Recklessly
+	2 CG15 Rain of Mercy
+	2 CG14 Gaia Power
+	2 CU05 Aqua Madoor
+	2 CA01 Disk Magician
+	2 CA02 Metal Dragon
+	2 CA03 Man-Eating Treasure Chest
+	2 CA05 Pitch-Black Power Stone
+	2 CA06 Millennium Key
+	2 CW01 Harpie Girl
+	2 CU06 Flying Fish
+	2 CA04 Millennium Scale
+	2 CW02 Marauding Captain
+	2 CU07 Humanoid Worm Drake
 [uncommon(4)]
-[common(7)]
-	8 CW03 Familiar Knight
-	8 CW06 Spear Dragon
-	8 CW11 Celtic Guardian
-	8 CW09 Breaker, the Magical Warrior
-	8 CW05 Beaver Warrior
-	8 CW08 Mystical Elf
-	8 CW04 Holding Arms
-	8 CW10 Hyozanryu
-	8 CW07 Stray Lambs
-	8 CW13 Waboku
-	8 CW14 Reinforcement of the Army
-	8 CW12 Light of Intervention
-	8 CW15 United We Stand
-	8 CU01 Stealth Bird
-	8 CU03 Illusionist Faceless Mage
-	8 CU02 Element Magician
-	8 CU04 Toon Mermaid
-	8 CU08 Kairyu-shin
-	8 CU09 Compulsory Evactuation Device
-	8 CU10 Mask of Dispel
-	8 CU11 Spellbinding Circle
-	8 CU12 Pot of Greed
-	8 CU13 De-Spell
-	8 CU14 Mist Body
-	8 CU15 Magic Drain
-	8 CB01 Kuriboh
-	8 CB02 Night Assailant
-	8 CB03 Double Coston
-	8 CB04 Steel Scorpion
-	8 CB06 Mammoth Graveyard
-	8 CB05 Flash Assailant
-	8 CB07 Berfomet
-	8 CB08 Shadow Ghoul
-	8 CB09 Beast of Talwar
-	8 CB10 Trap Hole
-	8 CB11 Kunai with Chain
-	8 CB12 Reckless Greed
-	8 CB13 Mind Crush
-	8 CB14 Tribute to the Doomed
-	8 CB15 Soul Taker
-	8 CR01 Hinotama Soul
-	8 CR02 Fire Princess
-	8 CR03 Raging Flame Sprite
-	8 CR04 Berserk Gorilla
-	8 CR05 Hitotsu-Me Giant
-	8 CR06 Flame Cerebrus
-	8 CR07 Slot Machine
-	8 CR08 Flame Manipulator
-	8 CR09 Mechanicalchaser
-	8 CR10 Sparks
-	8 CR11 Raise Body Heat
-	8 CR12 Reload
-	8 CR13 Stamping Destruction
-	8 CR15 Meteor of Destruction
-	8 CR14 Rebellion
-	8 CG01 Leghul
-	8 CG02 Witch of the Black Forest
-	8 CG03 Flower Wolf
-	8 CG04 Basic Insect
-	8 CG05 Dark Gray
-	8 CG06 Gazelle, King of Mythical Beasts
-	8 CG07 Mother Grizzly
-	8 CG09 Bazoo, the Soul-Eater
-	8 CG08 Amazoness Chain Master
-	8 CG10 Megazowler
-	8 CG11 Spring of Rebirth
-	8 CG12 Quick Attack
-	8 CG13 Rush Recklessly
-	8 CG15 Rain of Mercy
-	8 CG14 Gaia Power
-	8 CU05 Aqua Madoor
-	8 CA01 Disk Magician
-	8 CA02 Metal Dragon
-	8 CA03 Yaranzo
-	8 CA05 Pitch-Black Power Stone
-	8 CL01 Ocean City Field
-	8 CL02 Dark Storm Field
-	8 CL03 Volcanic Field
-	8 CL06 Temple Field
-	8 CL04 Jurassic Field
-	8 CL07 Virtual Field
-	8 CL05 Secret Village Field
-	8 CL08 Graveyard Field
-	8 CL09 Ravine Field
-	8 CL10 Wetland Field
-	8 CA06 Millennium Key
-	8 CW01 Harpie Girl
-	8 CU06 Flying Fish
-	8 CA04 Millennium Scale
-	8 CW02 Marauding Captain
-	8 CU07 Humanoid Worm Drake
-[wildcard(2)]
 	6 CW03 Familiar Knight
 	6 CW06 Spear Dragon
 	6 CW11 Celtic Guardian
-	6 CW09 Breaker, the Magical Warrior
+	6 CW09 Breaker, Magical Warrior
 	6 CW05 Beaver Warrior
 	6 CW08 Mystical Elf
-	6 CW04 Holding Arms
+	6 CW04 Banisher of the Light
 	6 CW10 Hyozanryu
 	6 CW07 Stray Lambs
 	6 CW13 Waboku
@@ -1136,8 +1134,8 @@
 	6 CB02 Night Assailant
 	6 CB03 Double Coston
 	6 CB04 Steel Scorpion
-	6 CB06 Mammoth Graveyard
-	6 CB05 Flash Assailant
+	6 CB05 Mammoth Graveyard
+	6 CB06 Flash Assailant
 	6 CB07 Berfomet
 	6 CB08 Shadow Ghoul
 	6 CB09 Beast of Talwar
@@ -1169,7 +1167,7 @@
 	6 CG05 Dark Gray
 	6 CG06 Gazelle, King of Mythical Beasts
 	6 CG07 Mother Grizzly
-	6 CG09 Bazoo, the Soul-Eater
+	6 CG09 Bazoo, Soul-Eater
 	6 CG08 Amazoness Chain Master
 	6 CG10 Megazowler
 	6 CG11 Spring of Rebirth
@@ -1180,8 +1178,179 @@
 	6 CU05 Aqua Madoor
 	6 CA01 Disk Magician
 	6 CA02 Metal Dragon
-	6 CA03 Yaranzo
+	6 CA03 Man-Eating Treasure Chest
 	6 CA05 Pitch-Black Power Stone
+	6 CA06 Millennium Key
+	6 CW01 Harpie Girl
+	6 CU06 Flying Fish
+	6 CA04 Millennium Scale
+	6 CW02 Marauding Captain
+	6 CU07 Humanoid Worm Drake
+[common(6)]
+	8 CW03 Familiar Knight
+	8 CW06 Spear Dragon
+	8 CW11 Celtic Guardian
+	8 CW09 Breaker, Magical Warrior
+	8 CW05 Beaver Warrior
+	8 CW08 Mystical Elf
+	8 CW04 Banisher of the Light
+	8 CW10 Hyozanryu
+	8 CW07 Stray Lambs
+	8 CW13 Waboku
+	8 CW14 Reinforcement of the Army
+	8 CW12 Light of Intervention
+	8 CW15 United We Stand
+	8 CU01 Stealth Bird
+	8 CU03 Illusionist Faceless Mage
+	8 CU02 Element Magician
+	8 CU04 Toon Mermaid
+	8 CU08 Kairyu-shin
+	8 CU09 Compulsory Evactuation Device
+	8 CU10 Mask of Dispel
+	8 CU11 Spellbinding Circle
+	8 CU12 Pot of Greed
+	8 CU13 De-Spell
+	8 CU14 Mist Body
+	8 CU15 Magic Drain
+	8 CB01 Kuriboh
+	8 CB02 Night Assailant
+	8 CB03 Double Coston
+	8 CB04 Steel Scorpion
+	8 CB05 Mammoth Graveyard
+	8 CB06 Flash Assailant
+	8 CB07 Berfomet
+	8 CB08 Shadow Ghoul
+	8 CB09 Beast of Talwar
+	8 CB10 Trap Hole
+	8 CB11 Kunai with Chain
+	8 CB12 Reckless Greed
+	8 CB13 Mind Crush
+	8 CB14 Tribute to the Doomed
+	8 CB15 Soul Taker
+	8 CR01 Hinotama Soul
+	8 CR02 Fire Princess
+	8 CR03 Raging Flame Sprite
+	8 CR04 Berserk Gorilla
+	8 CR05 Hitotsu-Me Giant
+	8 CR06 Flame Cerebrus
+	8 CR07 Slot Machine
+	8 CR08 Flame Manipulator
+	8 CR09 Mechanicalchaser
+	8 CR10 Sparks
+	8 CR11 Raise Body Heat
+	8 CR12 Reload
+	8 CR13 Stamping Destruction
+	8 CR15 Meteor of Destruction
+	8 CR14 Rebellion
+	8 CG01 Leghul
+	8 CG02 Witch of the Black Forest
+	8 CG03 Flower Wolf
+	8 CG04 Basic Insect
+	8 CG05 Dark Gray
+	8 CG06 Gazelle, King of Mythical Beasts
+	8 CG07 Mother Grizzly
+	8 CG09 Bazoo, Soul-Eater
+	8 CG08 Amazoness Chain Master
+	8 CG10 Megazowler
+	8 CG11 Spring of Rebirth
+	8 CG12 Quick Attack
+	8 CG13 Rush Recklessly
+	8 CG15 Rain of Mercy
+	8 CG14 Gaia Power
+	8 CU05 Aqua Madoor
+	8 CA01 Disk Magician
+	8 CA02 Metal Dragon
+	8 CA03 Man-Eating Treasure Chest
+	8 CA05 Pitch-Black Power Stone
+	8 CA06 Millennium Key
+	8 CW01 Harpie Girl
+	8 CU06 Flying Fish
+	8 CA04 Millennium Scale
+	8 CW02 Marauding Captain
+	8 CU07 Humanoid Worm Drake
+[wildcard(2)]
+	6 CW03 Familiar Knight
+	6 CW06 Spear Dragon
+	6 CW11 Celtic Guardian
+	6 CW09 Breaker, Magical Warrior
+	6 CW05 Beaver Warrior
+	6 CW08 Mystical Elf
+	6 CW04 Banisher of the Light
+	6 CW10 Hyozanryu
+	6 CW07 Stray Lambs
+	6 CW13 Waboku
+	6 CW14 Reinforcement of the Army
+	6 CW12 Light of Intervention
+	6 CW15 United We Stand
+	6 CU01 Stealth Bird
+	6 CU03 Illusionist Faceless Mage
+	6 CU02 Element Magician
+	6 CU04 Toon Mermaid
+	6 CU08 Kairyu-shin
+	6 CU09 Compulsory Evactuation Device
+	6 CU10 Mask of Dispel
+	6 CU11 Spellbinding Circle
+	6 CU12 Pot of Greed
+	6 CU13 De-Spell
+	6 CU14 Mist Body
+	6 CU15 Magic Drain
+	6 CB01 Kuriboh
+	6 CB02 Night Assailant
+	6 CB03 Double Coston
+	6 CB04 Steel Scorpion
+	6 CB05 Mammoth Graveyard
+	6 CB06 Flash Assailant
+	6 CB07 Berfomet
+	6 CB08 Shadow Ghoul
+	6 CB09 Beast of Talwar
+	6 CB10 Trap Hole
+	6 CB11 Kunai with Chain
+	6 CB12 Reckless Greed
+	6 CB13 Mind Crush
+	6 CB14 Tribute to the Doomed
+	6 CB15 Soul Taker
+	6 CR01 Hinotama Soul
+	6 CR02 Fire Princess
+	6 CR03 Raging Flame Sprite
+	6 CR04 Berserk Gorilla
+	6 CR05 Hitotsu-Me Giant
+	6 CR06 Flame Cerebrus
+	6 CR07 Slot Machine
+	6 CR08 Flame Manipulator
+	6 CR09 Mechanicalchaser
+	6 CR10 Sparks
+	6 CR11 Raise Body Heat
+	6 CR12 Reload
+	6 CR13 Stamping Destruction
+	6 CR15 Meteor of Destruction
+	6 CR14 Rebellion
+	6 CG01 Leghul
+	6 CG02 Witch of the Black Forest
+	6 CG03 Flower Wolf
+	6 CG04 Basic Insect
+	6 CG05 Dark Gray
+	6 CG06 Gazelle, King of Mythical Beasts
+	6 CG07 Mother Grizzly
+	6 CG09 Bazoo, Soul-Eater
+	6 CG08 Amazoness Chain Master
+	6 CG10 Megazowler
+	6 CG11 Spring of Rebirth
+	6 CG12 Quick Attack
+	6 CG13 Rush Recklessly
+	6 CG15 Rain of Mercy
+	6 CG14 Gaia Power
+	6 CU05 Aqua Madoor
+	6 CA01 Disk Magician
+	6 CA02 Metal Dragon
+	6 CA03 Man-Eating Treasure Chest
+	6 CA05 Pitch-Black Power Stone
+	6 CA06 Millennium Key
+	6 CW01 Harpie Girl
+	6 CU06 Flying Fish
+	6 CA04 Millennium Scale
+	6 CW02 Marauding Captain
+	6 CU07 Humanoid Worm Drake
+[Landslot(1)]	
 	6 CL01 Ocean City Field
 	6 CL02 Dark Storm Field
 	6 CL03 Volcanic Field
@@ -1192,9 +1361,8 @@
 	6 CL08 Graveyard Field
 	6 CL09 Ravine Field
 	6 CL10 Wetland Field
-	6 CA06 Millennium Key
-	6 CW01 Harpie Girl
-	6 CU06 Flying Fish
-	6 CA04 Millennium Scale
-	6 CW02 Marauding Captain
-	6 CU07 Humanoid Worm Drake
+	18 Plains
+	18 Island
+	18 Swamp
+    18 Mounting
+	18 Forest
