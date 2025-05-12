@@ -1364,5 +1364,5 @@
 	18 Plains
 	18 Island
 	18 Swamp
-    18 Mounting
+    18 Mountain
 	18 Forest
